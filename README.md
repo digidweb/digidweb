@@ -1,4 +1,4 @@
-<h1 class="heading-element" align="center" dir="auto">Helo World! I'm Leo 👋🏼</h1>
+<h1 class="heading-element" align="center" dir="auto">Helo World! I'm Leo 👋🏽</h1>
 
 <h3 align="center" class="heading-element" dir="auto">Full Stack Web Developer</h3>
 <br>
