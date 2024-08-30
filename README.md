@@ -9,12 +9,15 @@
      <li>Graduating in Information Systems;</li>
      <li>Free/Libre Software Enthusiast</li>
 </ul>
+<br>
 <h2 class="heading-element" dir="auto">💻 About me:</h2>
+<ul></ul>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Python and AWS
 - 👯 I’m looking to collaborate on Ruby on Rails Libre/Open Source projects
 - 🤔 I’m looking for help with understanding the connection between memory allocation and software performace
 - 💬 Ask me about building websites with WordPress
+</ul>
 <br>
 <h2 class="heading-element" dir="auto">💻 Tech Stack:</h2>
 <div class="d-flex flex-justify-between">
