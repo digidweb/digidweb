@@ -12,11 +12,11 @@
 <br>
 <h2 class="heading-element" dir="auto">💻 About me:</h2>
 <ul>
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Python and AWS
-- 👯 I’m looking to collaborate on Ruby on Rails Libre/Open Source projects
-- 🤔 I’m looking for help with understanding the connection between memory allocation and software performace
-- 💬 Ask me about building websites with WordPress
+<li>🔭 I’m currently working on getting a job in a company</li>
+<li>🌱 I’m currently learning Python and AWS</li>
+<li>👯 I’m looking to collaborate on Ruby on Rails Libre/Open Source projects</li>
+<li>🤔 I’m looking for help with understanding the connection between memory allocation and software performace</li>
+<li>💬 Ask me about building websites with WordPress</li>
 </ul>
 <br>
 <h2 class="heading-element" dir="auto">💻 Tech Stack:</h2>
