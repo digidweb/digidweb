@@ -1,4 +1,7 @@
-## Hi there 👋
+### Helo World! 👋🏻
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original-wordmark.svg" />
 
 <!--
 **digidweb/digidweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
