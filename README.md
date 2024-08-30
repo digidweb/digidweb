@@ -50,10 +50,10 @@
   <tbody>
     <tr>
       <td style="vertical-align:top;border:0;padding:0;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=digidweb&count_private=true&show_icons=true&theme=monokai" alt="" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=digidweb&count_private=true&show_icons=true&theme=radical" alt="" />
       </td>
       <td style="vertical-align:top;border:0;padding:0;">
-        <img src="https://github-readme-stats.vercel.app/api?username=digidweb&count_private=true&show_icons=true&theme=monokai&layout=compact" alt="" />
+        <img src="https://github-readme-stats.vercel.app/api?username=digidweb&count_private=true&show_icons=true&theme=radical&layout=compact" alt="" />
       </td>
     </tr>
   </tbody>
