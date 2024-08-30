@@ -1,10 +1,12 @@
 <h1 class="heading-element" align="center" dir="auto">Helo World! I'm Leo 👋🏻</h1>
 
 <h4 align="center" class="heading-element" dir="auto">Full Stack Web Developer</h4>
+
 <hr>
    ::before
    ::after
 </hr>
+
 <ul dir="auto">
      <li><strong>Partner + Front-end Engineer/Architect</strong> at <strong><a href="https://kickops.dev" rel="nofollow">Kickops</a></strong>, hailing from São Paulo, Brazil;</li>
      <li>15+ years of experience in web design + development;</li>
