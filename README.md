@@ -18,7 +18,7 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;"> </a> 
     <a href="https://www.wordpress.org/" rel="nofollow"></a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="40" height="40" style="max-width: 100%;"> </a> 
     <a href="https://www.figma.com/" rel="nofollow"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="figma" width="40" height="40" style="max-width: 100%;"> </a> 
-    <a href="https://www.figma.com/](https://www.heroku.com/" rel="nofollow"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-plain.svg" alt="figma" width="40" height="40" style="max-width: 100%;"> </a>        
+    <a href="https://www.heroku.com/" rel="nofollow"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-plain.svg" alt="heroku" width="40" height="40" style="max-width: 100%;"> </a>        
 </div>
 
 <!--
