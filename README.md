@@ -59,7 +59,7 @@
   </tbody>
 </table>
 <br>
-<h2 class="heading-element" dir="auto">🤙🏼 Let's Connect!</h2>
+
 <!--
 
 <!--
