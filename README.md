@@ -11,7 +11,7 @@
 </ul>
 <br>
 
-<h2 class="heading-element" dir="auto">💻 About me:</h2>
+<h2 class="heading-element" dir="auto">👨🏼‍💻 About me:</h2>
 <ul>
 <li>🔭 I’m currently working on getting a job in a company</li>
 <li>🌱 I’m currently learning Python and AWS</li>
@@ -58,6 +58,8 @@
     </tr>
   </tbody>
 </table>
+<br>
+<h2 class="heading-element" dir="auto">🤙🏼 Let's connect!:</h2>
 <!--
 
 <!--
