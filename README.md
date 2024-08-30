@@ -11,7 +11,7 @@
 </ul>
 <br>
 
-<h2 class="heading-element" dir="auto">👨🏼‍💻 About me:</h2>
+<h2 class="heading-element" dir="auto">👨🏼‍💻 About me</h2>
 <ul>
 <li>🔭 I’m currently working on getting a job in a company</li>
 <li>🌱 I’m currently learning Python and AWS</li>
@@ -21,7 +21,7 @@
 </ul>
 <br>
 
-<h2 class="heading-element" dir="auto">💻 My Tech Stack:</h2>
+<h2 class="heading-element" dir="auto">💻 My Tech Stack</h2>
 <div class="d-flex flex-justify-between">
      <a href="https://ubuntu.com/" rel="nofollow"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" alt="ubuntu" width="40" height="40" style="max-width: 100%; margin: 10px;"> </a>
     <a href="https://www.debian.org/" rel="nofollow"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" alt="debian" width="40" height="40" style="max-width: 100%;"> </a> 
@@ -44,7 +44,7 @@
 </div>
 <br>
 
-<h2 class="heading-element" dir="auto">📊 My GitHub Stats:</h2>
+<h2 class="heading-element" dir="auto">📊 My GitHub Stats</h2>
 
 <table style="border-collapse:collapse;border:0;width:100%">
   <tbody>
@@ -59,7 +59,7 @@
   </tbody>
 </table>
 <br>
-<h2 class="heading-element" dir="auto">🤙🏼 Let's connect!:</h2>
+<h2 class="heading-element" dir="auto">🤙🏼 Let's connect!</h2>
 <!--
 
 <!--
