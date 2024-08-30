@@ -19,7 +19,7 @@
 <li>💬 Ask me about building websites with WordPress</li>
 </ul>
 <br>
-<h2 class="heading-element" dir="auto">💻 Tech Stack:</h2>
+<h2 class="heading-element" dir="auto">💻 My Tech Stack:</h2>
 <div class="d-flex flex-justify-between">
      <a href="https://ubuntu.com/" rel="nofollow"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" alt="ubuntu" width="40" height="40" style="max-width: 100%; margin: 10px;"> </a>
     <a href="https://www.debian.org/" rel="nofollow"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" alt="debian" width="40" height="40" style="max-width: 100%;"> </a> 
@@ -41,7 +41,7 @@
     <a href="https://www.heroku.com/" rel="nofollow"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-plain.svg" alt="heroku" width="40" height="40" style="max-width: 100%;"> </a>        
 </div>
 <br>
-<h2 class="heading-element" dir="auto">📊 GitHub Stats:</h2>
+<h2 class="heading-element" dir="auto">📊 My GitHub Stats:</h2>
 
 <!--
 
