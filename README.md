@@ -2,9 +2,7 @@
 
 <h4 align="center" class="heading-element" dir="auto">Full Stack Web Developer</h4>
 
-<hr>
-   
-</hr>
+<hr></hr>
 
 <ul dir="auto">
      <li><strong>Partner + Front-end Engineer/Architect</strong> at <strong><a href="https://kickops.dev" rel="nofollow">Kickops</a></strong>, hailing from São Paulo, Brazil;</li>
@@ -35,6 +33,8 @@
     <a href="https://www.figma.com/" rel="nofollow"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="figma" width="40" height="40" style="max-width: 100%;"> </a> 
     <a href="https://www.heroku.com/" rel="nofollow"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-plain.svg" alt="heroku" width="40" height="40" style="max-width: 100%;"> </a>        
 </div>
+
+<hr></hr>
 
 <h2 class="heading-element" dir="auto">📊 GitHub Stats:</h2>
 
