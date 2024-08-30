@@ -4,10 +4,10 @@
 <br>
 <ul dir="auto">
      <li><strong>Partner + Front-end Engineer/Architect</strong> at <strong><a href="https://kickops.dev" rel="nofollow">Kickops</a></strong>, hailing from São Paulo, Brazil;</li>
-     <li>15+ years of experience in web design + development;</li>
+     <li>10+ years of experience in building websites with WordPress;</li>
      <li>Pretty comfortable with front-end, but can handle back-end too;</li>
      <li>Worked mostly as a freelance developer, with recent stunts at some Brazilian startups;</li>
-     <li>Also, B.A. in Advertising and Marketing;</li>
+     <li>Graduating in Information Systems</li>
 </ul>
 <br>
 <h2 class="heading-element" dir="auto">💻 Tech Stack:</h2>
