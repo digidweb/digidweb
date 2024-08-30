@@ -3,11 +3,11 @@
 <h3 align="center" class="heading-element" dir="auto">Full Stack Web Developer</h3>
 <br>
 <ul dir="auto">
-     <li><strong>Partner + Front-end Engineer/Architect</strong> at <strong><a href="https://kickops.dev" rel="nofollow">Kickops</a></strong>, hailing from São Paulo, Brazil;</li>
+     <li><strong> Domain Registration, Webhosting and Website Developemnt</strong> at <strong><a href="https://kickops.dev" rel="nofollow">Kickops</a></strong>;</li>
      <li>10+ years of experience in building websites with WordPress;</li>
      <li>Systematic thinking and Aesthetic Sense;</li>
      <li>Worked mostly as a freelance developer;</li>
-     <li>Graduating in Information Systems</li>
+     <li>Graduating in Information Systems;</li>
      <li>Libre Software Enthusiast</li>
 </ul>
 <br>
