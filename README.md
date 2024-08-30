@@ -3,12 +3,12 @@
 <h3 align="center" class="heading-element" dir="auto">Full Stack Web Developer</h3>
 <br>
 <ul dir="auto">
-     <li><strong> Domain Registration, Webhosting and Website Developemnt</strong> at <strong><a href="https://kickops.dev" rel="nofollow">Kickops</a></strong>;</li>
+     <li>Creator of <strong>digid</strong> a Domain Registration, Webhosting and Website Developemnt service<strong><a href="https://digid.com.br" rel="nofollow">digid</a></strong>;</li>
      <li>10+ years of experience in building websites with WordPress;</li>
-     <li>Systematic thinking and Aesthetic Sense;</li>
-     <li>Worked mostly as a freelance developer;</li>
+     <li>Systemic Thinking and Aesthetic Sense;</li>
+     <li>Currently working as a freelance developer;</li>
      <li>Graduating in Information Systems;</li>
-     <li>Libre Software Enthusiast</li>
+     <li>Free/Libre Software Enthusiast</li>
 </ul>
 <br>
 <h2 class="heading-element" dir="auto">💻 Tech Stack:</h2>
