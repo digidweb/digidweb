@@ -16,7 +16,7 @@
 <li>🔭 I’m working on getting a job in a company</li>
 <li>🌱 I’m currently learning Python and AWS</li>
 <li>👯 I’m willing to collaborate on Ruby on Rails Libre/Open Source projects</li>
-<li>🤔 I’m looking for help understanding the connection between memory allocation and software performace</li>
+<li>🤔 I’m looking for help to understand the connection between memory allocation and software performace</li>
 <li>💬 Ask me about building websites with WordPress and Libre Software</li>
 </ul>
 <br>
