@@ -3,7 +3,7 @@
 <h3 align="center" class="heading-element" dir="auto">Full Stack Web Developer</h3>
 <br>
 <ul dir="auto">
-     <li>Creator of <strong>digid</strong> a Domain Registration, Webhosting and Website Developemnt service<strong><a href="https://digid.com.br" rel="nofollow">digid</a></strong>;</li>
+     <li>Creator of <strong>digid</strong> a Domain Registration, Webhosting and Website Developemnt service<strong> <a href="https://digid.com.br" rel="nofollow">digid</a> </strong>;</li>
      <li>10+ years of experience in building websites with WordPress;</li>
      <li>Currently working as a self-employeed developer;</li>
      <li>Systemic Thinking and Aesthetic Sense;</li>
