@@ -5,8 +5,8 @@
 <ul dir="auto">   
      <li>10+ years of experience in building websites with WordPress;</li>
      <li>Currently working as a self-employeed developer;</li>
+     <li>Ongoing Degree in Information Systems;</li>
      <li>Systemic Thinking and Aesthetic Sense;</li>
-     <li>Graduating in Information Systems;</li>
      <li>Free/Libre Software Enthusiast</li>
 </ul>
 <br>
