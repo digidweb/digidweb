@@ -3,8 +3,7 @@
 <h4 align="center" class="heading-element" dir="auto">Full Stack Web Developer</h4>
 
 <hr>
-   ::before
-   ::after
+   
 </hr>
 
 <ul dir="auto">
