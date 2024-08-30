@@ -49,11 +49,6 @@
 <table style="border-collapse:collapse;border:0;width:100%">
   <tbody>
     <tr>
-      <td colspan="2" style="border:0;padding:0">
-        <img src="https://github-profile-trophy.vercel.app/?username=yuigoto&theme=monokai&no-frame=true" alt="" style="width:100%"/>
-      </td>
-    </tr>
-    <tr>
       <td style="vertical-align:top;border:0;padding:0;">
         <img src="https://github-readme-stats.vercel.app/api?username=yuigoto&count_private=true&show_icons=true&theme=monokai&layout=compact" alt="" />
       </td>
