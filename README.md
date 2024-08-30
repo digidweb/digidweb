@@ -10,6 +10,7 @@
      <li>Free/Libre Software Enthusiast</li>
 </ul>
 <br>
+
 <h2 class="heading-element" dir="auto">💻 About me:</h2>
 <ul>
 <li>🔭 I’m currently working on getting a job in a company</li>
@@ -19,6 +20,7 @@
 <li>💬 Ask me about building websites with WordPress</li>
 </ul>
 <br>
+
 <h2 class="heading-element" dir="auto">💻 My Tech Stack:</h2>
 <div class="d-flex flex-justify-between">
      <a href="https://ubuntu.com/" rel="nofollow"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" alt="ubuntu" width="40" height="40" style="max-width: 100%; margin: 10px;"> </a>
@@ -41,8 +43,26 @@
     <a href="https://www.heroku.com/" rel="nofollow"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-plain.svg" alt="heroku" width="40" height="40" style="max-width: 100%;"> </a>        
 </div>
 <br>
+
 <h2 class="heading-element" dir="auto">📊 My GitHub Stats:</h2>
 
+<table style="border-collapse:collapse;border:0;width:100%">
+  <tbody>
+    <tr>
+      <td colspan="2" style="border:0;padding:0">
+        <img src="https://github-profile-trophy.vercel.app/?username=yuigoto&theme=monokai&no-frame=true" alt="" style="width:100%"/>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align:top;border:0;padding:0;">
+        <img src="https://github-readme-stats.vercel.app/api?username=yuigoto&count_private=true&show_icons=true&theme=monokai&layout=compact" alt="" />
+      </td>
+      <td style="vertical-align:top;border:0;padding:0;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuigoto&count_private=true&show_icons=true&theme=monokai" alt="" />
+      </td>
+    </tr>
+  </tbody>
+</table>
 <!--
 
 <!--
