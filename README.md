@@ -11,7 +11,7 @@
 </ul>
 <br>
 <h2 class="heading-element" dir="auto">💻 About me:</h2>
-<ul></ul>
+<ul>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Python and AWS
 - 👯 I’m looking to collaborate on Ruby on Rails Libre/Open Source projects
