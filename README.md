@@ -2,7 +2,13 @@
 
 <h3 align="center" class="heading-element" dir="auto">Full Stack Web Developer</h3>
 <br>
-<ul dir="auto">    
+<ul dir="auto">   
+     - 🔭 I’m currently working on ...
+- 🌱 I’m currently learning Python and AWS
+- 👯 I’m looking to collaborate on Ruby on Rails Libre/Open Source projects
+- 🤔 I’m looking for help with the connection between memory allocation and software performace
+- 💬 Ask me about building websites with WordPress
+- 📫 How to reach me: ...
      <li>10+ years of experience in building websites with WordPress;</li>
      <li>Currently working as a self-employeed developer;</li>
      <li>Systemic Thinking and Aesthetic Sense;</li>
