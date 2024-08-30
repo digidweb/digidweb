@@ -1,7 +1,7 @@
 <h1 class="heading-element" align="center" dir="auto">Helo World! I'm Leo 👋🏻</h1>
 
 <h4 align="center" class="heading-element" dir="auto">Full Stack Web Developer</h4>
-
+<br>
 <ul dir="auto">
      <li><strong>Partner + Front-end Engineer/Architect</strong> at <strong><a href="https://kickops.dev" rel="nofollow">Kickops</a></strong>, hailing from São Paulo, Brazil;</li>
      <li>15+ years of experience in web design + development;</li>
@@ -9,7 +9,7 @@
      <li>Worked mostly as a freelance developer, with recent stunts at some Brazilian startups;</li>
      <li>Also, B.A. in Advertising and Marketing;</li>
 </ul>
-
+<br>
 <h2 class="heading-element" dir="auto">💻 Tech Stack:</h2>
 <div class="d-flex flex-justify-between">
      <a href="https://ubuntu.com/" rel="nofollow"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" alt="ubuntu" width="40" height="40" style="max-width: 100%;"> </a>
