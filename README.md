@@ -6,13 +6,13 @@
      <li><strong>Partner + Front-end Engineer/Architect</strong> at <strong><a href="https://kickops.dev" rel="nofollow">Kickops</a></strong>, hailing from São Paulo, Brazil;</li>
      <li>10+ years of experience in building websites with WordPress;</li>
      <li>Pretty comfortable with front-end, but can handle back-end too;</li>
-     <li>Worked mostly as a freelance developer, with recent stunts at some Brazilian startups;</li>
+     <li>Worked mostly as a freelance developer;</li>
      <li>Graduating in Information Systems</li>
 </ul>
 <br>
 <h2 class="heading-element" dir="auto">💻 Tech Stack:</h2>
 <div class="d-flex flex-justify-between">
-     <a href="https://ubuntu.com/" rel="nofollow"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" alt="ubuntu" width="40" height="40" style="max-width: 100%; margin:2px;"> </a>
+     <a href="https://ubuntu.com/" rel="nofollow"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" alt="ubuntu" width="40" height="40" style="max-width: 100%; margin: 10px;"> </a>
     <a href="https://www.debian.org/" rel="nofollow"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" alt="debian" width="40" height="40" style="max-width: 100%;"> </a> 
     <a href="https://www.gnu.org/software/bash/" rel="nofollow"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="bash" width="40" height="40" style="max-width: 100%;"> </a> 
     <a href="https://git-scm.com/" rel="nofollow"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="max-width: 100%;"> </a>
@@ -20,7 +20,7 @@
      <a href="https://www.sqlite.org/index.html" rel="nofollow"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40" style="max-width: 100%;"> </a>    
     <a href="https://www.postgresql.org" rel="nofollow"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40" style="max-width: 100%;"> </a> 
     <a href="https://www.python.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width: 100%;"> </a> 
-    <a href="https://www.ruby-lang.org/en/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40" style="max-width: 100%; margin:2px;"> </a> 
+    <a href="https://www.ruby-lang.org/en/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40" style="max-width: 100%; margin: 10px;"> </a> 
     <a href="https://rubyonrails.org" rel="nofollow"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-plain.svg" alt="rails" width="40" height="40" style="max-width: 100%;"> </a>
     <a href="https://www.w3.org/html/" rel="nofollow"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html5" width="40" height="40" style="max-width: 100%;"> </a> 
     <a href="https://www.w3schools.com/css/" rel="nofollow"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css3" width="40" height="40" style="max-width: 100%;"> </a> 
