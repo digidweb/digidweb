@@ -5,8 +5,8 @@
 <ul dir="auto">
      <li>Creator of <strong>digid</strong> a Domain Registration, Webhosting and Website Developemnt service<strong><a href="https://digid.com.br" rel="nofollow">digid</a></strong>;</li>
      <li>10+ years of experience in building websites with WordPress;</li>
+     <li>Currently working as a self-employeed developer;</li>
      <li>Systemic Thinking and Aesthetic Sense;</li>
-     <li>Currently working as a freelance developer;</li>
      <li>Graduating in Information Systems;</li>
      <li>Free/Libre Software Enthusiast</li>
 </ul>
