@@ -1,6 +1,6 @@
 <h1 class="heading-element" align="center" dir="auto">Helo World! 👋🏻</h1>
 
-
+💻 Tech Stack:
 <div class="d-flex flex-justify-between">
     <a href="https://www.debian.org/" rel="nofollow"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" alt="debian" width="40" height="40" style="max-width: 100%;"> </a> 
     <a href="https://ubuntu.com/" rel="nofollow"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" alt="ubuntu" width="40" height="40" style="max-width: 100%;"> </a>
