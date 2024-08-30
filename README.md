@@ -1,4 +1,4 @@
-### Helo World! 👋🏻
+<h1 class="heading-element" align="center" dir="auto">Helo World! 👋🏻</h1>
 
 
 <div class="d-flex flex-justify-between">
