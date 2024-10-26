@@ -30,20 +30,20 @@
 <br>
 <h3 class="heading-element" dir="auto">👨🏼‍💻 About me</h3>
 <ul class="heading-element"  dir="auto">   
-     <li>10+ years of experience in building websites with WordPress;</li>
-     <li>Working as a Self-Employeed Developer;</li>
-     <li>Ongoing Degree in Information Systems;</li>
-     <li>Systemic Thinking and Aesthetic Sense;</li>
-     <li>Free/Libre Software Enthusiast</li>
+     <li>:muscle: 10+ years of experience in building websites with WordPress;</li>
+     <li>:triangular_ruler: Working as a Self-Employeed Developer;</li>
+     <li>:books: Ongoing Degree in Information Systems;</li>
+     <li>:gem: Systemic Thinking and Aesthetic Sense;</li>
+     <li>:bulb: Free/Libre Software Enthusiast</li>
 </ul>
 <br>
 
-<h3 class="heading-element" dir="auto">👨🏼‍💻 Currently</h3>
+<h3 class="heading-element" dir="auto">:rocket: Above and Beyond</h3>
 <ul>
-<li>🔭 I’m looking for a job in a company</li>
+<li>:earth_americas: I’m looking for a job in a company</li>
 <li>🌱 I’m learning Python and AWS</li>
 <li>👯 I’m willing to collaborate on Ruby on Rails Libre/Open Source projects</li>
-<li>🤔 I’m searching about the connection between memory allocation and software performace</li>
+<li>🤔 I’m trying to understand the connection between memory allocation and software performace</li>
 <li>💬 You can ask me about building websites with WordPress or about Libre/Free Software</li>
 </ul>
 <br>
