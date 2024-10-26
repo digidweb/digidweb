@@ -1,27 +1,10 @@
 <h1 class="heading-element" align="center" dir="auto">Helo World! I'm Leo 👋🏽</h1>
 
-<h3 align="center" class="heading-element" dir="auto">Full Stack Web Developer</h3>
 <br>
-<ul dir="auto">   
-     <li>10+ years of experience in building websites with WordPress;</li>
-     <li>Currently working as a Self-Employeed Developer;</li>
-     <li>Ongoing Degree in Information Systems;</li>
-     <li>Systemic Thinking and Aesthetic Sense;</li>
-     <li>Free/Libre Software Enthusiast</li>
-</ul>
+<h2 align="center" class="heading-element" dir="auto">Full Stack Web Developer</h2>
 <br>
 
-<h2 class="heading-element" dir="auto">👨🏼‍💻 About me</h2>
-<ul>
-<li>🔭 I’m working on getting a job in a company</li>
-<li>🌱 I’m currently learning Python and AWS</li>
-<li>👯 I’m willing to collaborate on Ruby on Rails Libre/Open Source projects</li>
-<li>🤔 I’m looking for help to understand the connection between memory allocation and software performace</li>
-<li>💬 Ask me about building websites with WordPress and Libre Software</li>
-</ul>
-<br>
-
-<h2 class="heading-element" dir="auto">💻 My Tech Stack</h2>
+<h3 class="heading-element" dir="auto">💻 My Tech Stack</h3>
 <div class="d-flex flex-justify-between">
      <a href="https://ubuntu.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" alt="ubuntu" width="40" height="40" style="max-width: 100%; margin: 10px;"></a>
     <a href="https://www.debian.org/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" alt="debian" width="40" height="40" style="max-width: 100%;"></a> 
@@ -43,6 +26,29 @@
     <a href="https://www.heroku.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-plain.svg" alt="heroku" width="40" height="40" style="max-width: 100%;"></a>        
 </div>
 <br>
+
+<br>
+<h3 class="heading-element" dir="auto">👨🏼‍💻 About me</h3>
+<ul class="heading-element"  dir="auto">   
+     <li>10+ years of experience in building websites with WordPress;</li>
+     <li>Working as a Self-Employeed Developer;</li>
+     <li>Ongoing Degree in Information Systems;</li>
+     <li>Systemic Thinking and Aesthetic Sense;</li>
+     <li>Free/Libre Software Enthusiast</li>
+</ul>
+<br>
+
+<h3 class="heading-element" dir="auto">👨🏼‍💻 Currently</h3>
+<ul>
+<li>🔭 I’m looking for a job in a company</li>
+<li>🌱 I’m learning Python and AWS</li>
+<li>👯 I’m willing to collaborate on Ruby on Rails Libre/Open Source projects</li>
+<li>🤔 I’m searching about the connection between memory allocation and software performace</li>
+<li>💬 You can ask me about building websites with WordPress or about Libre/Free Software</li>
+</ul>
+<br>
+
+
 
 <!--
 
