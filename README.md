@@ -1,7 +1,7 @@
 <h1 class="heading-element" align="center" dir="auto">Helo World! I'm Leo 👋🏽</h1>
 
 <br>
-<h2 align="center" class="heading-element" dir="auto">Full Stack Web Developer</h2>
+<h2 align="center" class="heading-element" dir="auto">Full-Stack Web Developer</h2>
 <br>
 
 <h3 class="heading-element" dir="auto">💻 My Tech Stack</h3>
