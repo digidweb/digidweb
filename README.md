@@ -26,7 +26,7 @@
     <a href="https://www.heroku.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-plain.svg" alt="heroku" width="40" height="40" style="max-width: 100%;"></a>
     <a href="https://www.wordpress.org/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/wordpress.svg" alt="wordpress" width="40" height="40" style="max-width: 100%;"></a>
     <a href="https://penpot.app/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/penpot-light.svg" alt="penpot" width="40" height="40" style="max-width: 100%;"></a> 
-    <a href="https://www.figma.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="figma" width="40" height="40" style="max-width: 100%;"></a>   
+    <a href="https://www.figma.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="figma" tooltip="figma" width="40" height="40" style="max-width: 100%;"></a>   
 </div>    
 <br>
 
