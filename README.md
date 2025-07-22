@@ -23,7 +23,7 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;"></a> 
     <a href="https://www.wordpress.org/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="40" height="40" style="max-width: 100%;"></a>
     <a href="https://vscodium.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscodium" width="40" height="40" style="max-width: 100%;"></a>
-    <a href="https://vscodium.com/" rel="nofollow"><img src="https://icons.iconarchive.com/icons/simpleicons-team/simple/128/vscodium-icon.png" alt="vscodium" width="128" height="128" style="max-width: 100%;"></a>
+    <a href="https://vscodium.com/" rel="nofollow"><img src="https://icons.iconarchive.com/icons/simpleicons-team/simple/128/vscodium-icon.png" alt="vscodium" width="40" height="40" style="max-width: 100%;"></a>
     <a href="https://www.figma.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="figma" width="40" height="40" style="max-width: 100%;"></a> 
 <br>
 
