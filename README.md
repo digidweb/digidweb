@@ -8,7 +8,7 @@
 <div class="d-flex flex-justify-between">
     <a href="https://www.debian.org/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" alt="debian" width="40" height="40" style="max-width: 100%;"></a> 
     <a href="https://ubuntu.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" alt="ubuntu" width="40" height="40" style="max-width: 100%; margin: 10px;"></a> 
-    <a href="https://www.gnu.org/software/bash/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="bash" width="40" height="40" style="max-width: 100%;"></a>
+    <a href="https://www.gnu.org/software/bash/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/shell-light.svg" alt="bash" width="40" height="40" style="max-width: 100%;"></a>
     <a href="https://git-scm.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="max-width: 100%;"></a>
     <a href="https://vscodium.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscodium" width="40" height="40" style="max-width: 100%;"></a>
     <a href="https://vscodium.com/" rel="nofollow"><img src="https://github.com/user-attachments/assets/d051d389-518b-4a02-baae-a13ae0c3cd74" alt="vscodium" width="40" height="40" style="max-width: 100%;"></a>
