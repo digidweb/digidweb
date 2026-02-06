@@ -9,9 +9,11 @@
     <a href="https://www.debian.org/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" alt="debian" style="cursor:pointer;"
      title="Debian" width="40" height="40" style="max-width: 100%;"></a> 
     <a href="https://ubuntu.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" alt="ubuntu" style="cursor:pointer;"
-     title="Ubuntu" width="40" height="40" style="max-width: 100%; margin: 10px;"></a> 
+     title="Ubuntu" width="40" height="40" style="max-width: 100%; margin: 10px;"></a>
+    <br>
     <a href="https://www.gnu.org/software/bash/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/shell-light.svg" alt="bash" style="cursor:pointer;"
      title="Bash" width="40" height="40" style="max-width: 100%;"></a>
+    <br>
     <a href="https://git-scm.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" style="cursor:pointer;"
      title="Git" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="max-width: 100%;"></a>
     <a href="https://code.visualstudio.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" style="cursor:pointer;"
