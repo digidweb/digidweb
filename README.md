@@ -23,7 +23,7 @@
     <a href="https://git-scm.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" style="cursor:pointer;"
      title="Git" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="max-width: 100%;"></a>&nbsp;
     <a href="https://code.visualstudio.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" style="cursor:pointer;"
-     title="VSCode" width="40" height="40" style="max-width: 100%;"margin: 20px;></a>
+     title="VSCode" width="40" height="40" style="max-width: 100%; margin: 20px;></a>
     <a href="https://vscodium.com/" rel="nofollow"><img src="https://github.com/user-attachments/assets/d051d389-518b-4a02-baae-a13ae0c3cd74" alt="vscodium" style="cursor:pointer;"
      title="VSCodium" width="40" height="40" style="max-width: 100%;"></a>&nbsp;
     <a href="https://penpot.app/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/penpot-light.svg" alt="penpot" style="cursor:pointer;"
