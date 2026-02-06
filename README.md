@@ -57,6 +57,7 @@
      title="Codeberg" width="40" height="40" style="max-width: 100%;"></a>
     <a href="https://about.gitlab.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/gitlab.svg" alt="gitlab" style="cursor:pointer;"
      title="Gitlab" width="40" height="40" style="max-width: 100%;"></a>
+    <br>
     <a href="https://www.heroku.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-plain.svg" alt="heroku" style="cursor:pointer;"
      title="Heroku" width="40" height="40" style="max-width: 100%;"></a>       
 </div>    
@@ -67,7 +68,7 @@
 <ul class="heading-element"  dir="auto">   
      <li>:muscle: 10+ years of experience in building websites with WordPress;</li>
      <li>:triangular_ruler: Working as a Self-Employeed Developer;</li>
-     <li>👁️ RubyOnRio Dev Community Leader</li>
+     <li>👁️ RubyOnRio Dev Community Leader;</li>
      <li>:books: Ongoing Degree in Information Systems;</li>
      <li>:gem: Systemic Thinking and Aesthetic Sense;</li>
      <li>:bulb: Free/Libre Software Enthusiast</li>
@@ -76,11 +77,11 @@
 
 <h3 class="heading-element" dir="auto">:rocket: Above and Beyond</h3>
 <ul>
-<li>:earth_americas: Looking for a job in a company</li>
-<li>🌱 Learning Python and AWS</li>
-<li>👯 Willing to collaborate on Ruby on Rails Libre/Open Source projects</li>
-<li>🤔 Trying to understand the connection between memory allocation and software performace</li>
-<li>💬 You can ask me about building websites with WordPress or about Libre/Free Software</li>
+<li>:earth_americas: Looking for a job in a company;</li>
+<li>🌱 Learning Python and AWS;</li>
+<li>👯 Willing to collaborate on Ruby on Rails Libre/Open Source projects;</li>
+<li>🤔 Trying to understand the connection between memory allocation and software performace;</li>
+<li>💬 You can ask me about building websites with WordPress or about Libre/Free Software;</li>
 </ul>
 <br>
 
