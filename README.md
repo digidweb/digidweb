@@ -8,9 +8,9 @@
 <div class="d-flex flex-justify-between">
     <p>Operating Systems</p>
     <a href="https://www.debian.org/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" alt="debian" style="cursor:pointer;"
-     title="Debian" width="40" height="40" style="max-width: 100%;"></a>&nbsp; 
+     title="Debian" width="40" height="40" style="max-width: 100%; margin: 20px;"></a>&nbsp; 
     <a href="https://ubuntu.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" alt="ubuntu" style="cursor:pointer;"
-     title="Ubuntu" width="40" height="40" style="max-width: 100%; margin: 10px;"></a>
+     title="Ubuntu" width="40" height="40" style="max-width: 100%; margin: 20px;"></a>
     <br>
     <br>
     <p>Shells</p>
