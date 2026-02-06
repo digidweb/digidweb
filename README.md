@@ -69,7 +69,8 @@
      title="Tailwind" width="40" height="40" style="max-width: 100%;"></a> 
     <a href="https://getbootstrap.com" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="boostrap" style="cursor:pointer;"
      title="Bootstrap" width="40" height="40" style="max-width: 100%;"></a>
-    
+    <a href="https://react.dev/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="reactjs" style="cursor:pointer;"
+     title="ReactJS" width="40" height="40" style="max-width: 100%;"></a>
     <br>
     <br>
     <p>Code Repositories</p>
