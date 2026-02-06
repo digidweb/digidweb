@@ -6,11 +6,13 @@
 
 <h3 class="heading-element" dir="auto">💻 My Tech Stack</h3>
 <div class="d-flex flex-justify-between">
+    <p>Operating Systems</p>
     <a href="https://www.debian.org/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" alt="debian" style="cursor:pointer;"
      title="Debian" width="40" height="40" style="max-width: 100%;"></a> 
     <a href="https://ubuntu.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" alt="ubuntu" style="cursor:pointer;"
      title="Ubuntu" width="40" height="40" style="max-width: 100%; margin: 10px;"></a>
     <br>
+    <p>Development Tools</p>
     <a href="https://www.gnu.org/software/bash/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/shell-light.svg" alt="bash" style="cursor:pointer;"
      title="Bash" width="40" height="40" style="max-width: 100%;"></a>
     <br>
@@ -25,15 +27,17 @@
     <a href="https://www.figma.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="figma" style="cursor:pointer;"
      title="Figma" width="40" height="40" style="max-width: 100%;"></a>
     <br>
+    <p>Data Bases</p>
     <a href="https://www.sqlite.org/index.html" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" alt="sqlite" style="cursor:pointer;"
      title="SQLite" width="40" height="40" style="max-width: 100%;"></a>    
     <a href="https://www.postgresql.org" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="postgresql" style="cursor:pointer;"
      title="PostgreSQL" width="40" height="40" style="max-width: 100%;"></a>
     <br>
-    <a href="https://www.python.org" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" style="cursor:pointer;"
-     title="Python" width="40" height="40" style="max-width: 100%;"></a> 
+    <p>Backend Languages</p>
     <a href="https://www.ruby-lang.org/en/" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" style="cursor:pointer;"
      title="Ruby" width="40" height="40" style="max-width: 100%; margin: 10px;"></a>
+    <a href="https://www.python.org" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" style="cursor:pointer;"
+     title="Python" width="40" height="40" style="max-width: 100%;"></a> 
     <br>
     <a href="https://rubyonrails.org" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-plain.svg" alt="rails" style="cursor:pointer;"
      title="Rails" width="40" height="40" style="max-width: 100%;"></a>
