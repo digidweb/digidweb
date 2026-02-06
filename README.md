@@ -8,26 +8,26 @@
 <div class="d-flex flex-justify-between">
     <p>Operating Systems</p>
     <a href="https://www.debian.org/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" alt="debian" style="cursor:pointer;"
-     title="Debian" width="40" height="40" style="max-width: 100%;"></a> 
+     title="Debian" width="40" height="40" style="max-width: 100%;"></a>&nbsp; 
     <a href="https://ubuntu.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" alt="ubuntu" style="cursor:pointer;"
      title="Ubuntu" width="40" height="40" style="max-width: 100%; margin: 10px;"></a>
     <br>
     <br>
     <p>Shells</p>
     <a href="https://www.gnu.org/software/bash/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/shell-light.svg" alt="bash" style="cursor:pointer;"
-     title="Bash" width="40" height="40" style="max-width: 100%;"></a><br>&nbsp;    
+     title="Bash" width="40" height="40" style="max-width: 100%;"></a>&nbsp;    
     <a href="https://www.zsh.org/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zsh/zsh-original.svg" alt="zsh" style="cursor:pointer;" title="Zsh" width="40" height="40" style="max-width: 100%;"></a>
     <br>
     <br>
     <p>Development Tools</p>
     <a href="https://git-scm.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" style="cursor:pointer;"
-     title="Git" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="max-width: 100%;"></a>
+     title="Git" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="max-width: 100%;"></a>&nbsp;
     <a href="https://code.visualstudio.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" style="cursor:pointer;"
-     title="VSCode" width="40" height="40" style="max-width: 100%;"></a>
+     title="VSCode" width="40" height="40" style="max-width: 100%;"></a>&nbsp;
     <a href="https://vscodium.com/" rel="nofollow"><img src="https://github.com/user-attachments/assets/d051d389-518b-4a02-baae-a13ae0c3cd74" alt="vscodium" style="cursor:pointer;"
-     title="VSCodium" width="40" height="40" style="max-width: 100%;"></a>
+     title="VSCodium" width="40" height="40" style="max-width: 100%;"></a>&nbsp;
     <a href="https://penpot.app/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/penpot-light.svg" alt="penpot" style="cursor:pointer;"
-     title="Penpot" width="40" height="40" style="max-width: 100%;"></a> 
+     title="Penpot" width="40" height="40" style="max-width: 100%;"></a>&nbsp;
     <a href="https://www.figma.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="figma" style="cursor:pointer;"
      title="Figma" width="40" height="40" style="max-width: 100%;"></a>
     <br>
