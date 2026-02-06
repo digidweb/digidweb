@@ -69,6 +69,7 @@
 <h3 class="heading-element" dir="auto">:rocket: Above and Beyond</h3>
 <ul>
 <li>:earth_americas: I’m looking for a job in a company</li>
+<li>👁️ RubyOnRio Community Leader</li>
 <li>🌱 I’m learning Python and AWS</li>
 <li>👯 I’m willing to collaborate on Ruby on Rails Libre/Open Source projects</li>
 <li>🤔 I’m trying to understand the connection between memory allocation and software performace</li>
