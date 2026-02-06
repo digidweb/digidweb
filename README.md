@@ -20,16 +20,26 @@
      title="VSCode" width="40" height="40" style="max-width: 100%;"></a>
     <a href="https://vscodium.com/" rel="nofollow"><img src="https://github.com/user-attachments/assets/d051d389-518b-4a02-baae-a13ae0c3cd74" alt="vscodium" style="cursor:pointer;"
      title="VSCodium" width="40" height="40" style="max-width: 100%;"></a>
+    <a href="https://penpot.app/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/penpot-light.svg" alt="penpot" style="cursor:pointer;"
+     title="Penpot" width="40" height="40" style="max-width: 100%;"></a> 
+    <a href="https://www.figma.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="figma" style="cursor:pointer;"
+     title="Figma" width="40" height="40" style="max-width: 100%;"></a>
+    <br>
     <a href="https://www.sqlite.org/index.html" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" alt="sqlite" style="cursor:pointer;"
      title="SQLite" width="40" height="40" style="max-width: 100%;"></a>    
     <a href="https://www.postgresql.org" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="postgresql" style="cursor:pointer;"
-     title="PostgreSQL" width="40" height="40" style="max-width: 100%;"></a> 
+     title="PostgreSQL" width="40" height="40" style="max-width: 100%;"></a>
+    <br>
     <a href="https://www.python.org" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" style="cursor:pointer;"
      title="Python" width="40" height="40" style="max-width: 100%;"></a> 
     <a href="https://www.ruby-lang.org/en/" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" style="cursor:pointer;"
-     title="Ruby" width="40" height="40" style="max-width: 100%; margin: 10px;"></a> 
+     title="Ruby" width="40" height="40" style="max-width: 100%; margin: 10px;"></a>
+    <br>
     <a href="https://rubyonrails.org" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-plain.svg" alt="rails" style="cursor:pointer;"
      title="Rails" width="40" height="40" style="max-width: 100%;"></a>
+    <a href="https://www.wordpress.org/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/wordpress.svg" alt="wordpress" style="cursor:pointer;"
+     title="WordPress" width="40" height="40" style="max-width: 100%;"></a>
+    <br>
     <a href="https://www.w3.org/html/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html5" style="cursor:pointer;"
      title="HTML5" width="40" height="40" style="max-width: 100%;"></a> 
     <a href="https://www.w3.org/Style/CSS/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css3" style="cursor:pointer;"
@@ -42,18 +52,13 @@
      title="Tailwind" width="40" height="40" style="max-width: 100%;"></a> 
     <a href="https://getbootstrap.com" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="boostrap" style="cursor:pointer;"
      title="Bootstrap" width="40" height="40" style="max-width: 100%;"></a>
+    <br>
     <a href="https://codeberg.org/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/codeberg.svg" alt="codeberg" style="cursor:pointer;"
      title="Codeberg" width="40" height="40" style="max-width: 100%;"></a>
     <a href="https://about.gitlab.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/gitlab.svg" alt="gitlab" style="cursor:pointer;"
      title="Gitlab" width="40" height="40" style="max-width: 100%;"></a>
     <a href="https://www.heroku.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-plain.svg" alt="heroku" style="cursor:pointer;"
-     title="Heroku" width="40" height="40" style="max-width: 100%;"></a>
-    <a href="https://www.wordpress.org/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/wordpress.svg" alt="wordpress" style="cursor:pointer;"
-     title="WordPress" width="40" height="40" style="max-width: 100%;"></a>
-    <a href="https://penpot.app/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/penpot-light.svg" alt="penpot" style="cursor:pointer;"
-     title="Penpot" width="40" height="40" style="max-width: 100%;"></a> 
-    <a href="https://www.figma.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="figma" style="cursor:pointer;"
-     title="Figma" width="40" height="40" style="max-width: 100%;"></a>   
+     title="Heroku" width="40" height="40" style="max-width: 100%;"></a>       
 </div>    
 <br>
 
