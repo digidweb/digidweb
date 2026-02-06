@@ -15,7 +15,9 @@
     <br>
     <p>Shells</p>
     <a href="https://www.gnu.org/software/bash/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/shell-light.svg" alt="bash" style="cursor:pointer;"
-     title="Bash" width="40" height="40" style="max-width: 100%;"></a>
+     title="Bash" width="40" height="40" style="max-width: 100%;"></a>    
+    <a href="https://www.zsh.org/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/shell-light.svg" alt="zsh" style="cursor:pointer;"
+     title="Zsh" width="40" height="40" style="max-width: 100%;"></a>
     <br>
     <br>
     <p>Development Tools</p>
@@ -38,7 +40,7 @@
      title="PostgreSQL" width="40" height="40" style="max-width: 100%;"></a>
     <br>
     <br>
-    <p>Backend Languages</p>
+    <p>Back-end Languages</p>
     <a href="https://www.ruby-lang.org/en/" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" style="cursor:pointer;"
      title="Ruby" width="40" height="40" style="max-width: 100%; margin: 10px;"></a>
     <a href="https://www.python.org" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" style="cursor:pointer;"
@@ -52,7 +54,7 @@
      title="WordPress" width="40" height="40" style="max-width: 100%;"></a>
     <br>
     <br>
-    <p>Forntend Languages</p>
+    <p>Front-end Languages</p>
     <a href="https://www.w3.org/html/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html5" style="cursor:pointer;"
      title="HTML5" width="40" height="40" style="max-width: 100%;"></a> 
     <a href="https://www.w3.org/Style/CSS/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css3" style="cursor:pointer;"
@@ -63,7 +65,7 @@
      title="JavaScript" width="40" height="40" style="max-width: 100%;"></a>
     <br>
     <br>
-    <p>Frontend Frameworks</p>
+    <p>Front-end Frameworks</p>
     <a href="https://tailwindcss.com/" rel="nofollow"><img src="https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000" alt="tailwind" style="cursor:pointer;"
      title="Tailwind" width="40" height="40" style="max-width: 100%;"></a> 
     <a href="https://getbootstrap.com" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="boostrap" style="cursor:pointer;"
