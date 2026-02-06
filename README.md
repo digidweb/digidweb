@@ -32,6 +32,13 @@
      title="Figma" width="40" height="40" style="max-width: 100%;"></a>
     <br>
     <br>
+    <p>Code Repositories</p>
+    <a href="https://codeberg.org/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/codeberg.svg" alt="codeberg" style="cursor:pointer;"
+     title="Codeberg" width="40" height="40" style="max-width: 100%;"></a>&nbsp;&nbsp;
+    <a href="https://about.gitlab.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/gitlab.svg" alt="gitlab" style="cursor:pointer;"
+     title="Gitlab" width="40" height="40" style="max-width: 100%;"></a>
+    <br>
+    <br>
     <p>Data Bases</p>
     <a href="https://www.sqlite.org/index.html" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" alt="sqlite" style="cursor:pointer;"
      title="SQLite" width="40" height="40" style="max-width: 100%;"></a>&nbsp;&nbsp;    
@@ -73,14 +80,7 @@
      title="ReactJS" width="40" height="40" style="max-width: 100%;"></a>
     <br>
     <br>
-    <p>Code Repositories</p>
-    <a href="https://codeberg.org/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/codeberg.svg" alt="codeberg" style="cursor:pointer;"
-     title="Codeberg" width="40" height="40" style="max-width: 100%;"></a>&nbsp;&nbsp;
-    <a href="https://about.gitlab.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/gitlab.svg" alt="gitlab" style="cursor:pointer;"
-     title="Gitlab" width="40" height="40" style="max-width: 100%;"></a>
-    <br>
-    <br>
-    <p>Deploying Platforms</p>
+    <p>Deployment Platforms</p>
     <a href="https://www.heroku.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-plain.svg" alt="heroku" style="cursor:pointer;"
      title="Heroku" width="40" height="40" style="max-width: 100%;"></a>       
 </div>    
