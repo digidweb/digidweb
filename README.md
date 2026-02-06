@@ -13,10 +13,12 @@
      title="Ubuntu" width="40" height="40" style="max-width: 100%;"></a>
     <br>
     <br>
+    <br>
     <p>Shells</p>
     <a href="https://www.gnu.org/software/bash/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/shell-light.svg" alt="bash" style="cursor:pointer;"
      title="Bash" width="40" height="40" style="max-width: 100%;"></a>&nbsp;&nbsp;
     <a href="https://www.zsh.org/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zsh/zsh-original.svg" alt="zsh" style="cursor:pointer;" title="Zsh" width="40" height="40" style="max-width: 100%;"></a>
+    <br>
     <br>
     <br>
     <p>Development Tools</p>
@@ -32,11 +34,13 @@
      title="Figma" width="40" height="40" style="max-width: 100%;"></a>
     <br>
     <br>
+    <br>
     <p>Code Repositories</p>
     <a href="https://codeberg.org/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/codeberg.svg" alt="codeberg" style="cursor:pointer;"
      title="Codeberg" width="40" height="40" style="max-width: 100%;"></a>&nbsp;&nbsp;
     <a href="https://about.gitlab.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/gitlab.svg" alt="gitlab" style="cursor:pointer;"
      title="Gitlab" width="40" height="40" style="max-width: 100%;"></a>
+    <br>
     <br>
     <br>
     <p>Data Bases</p>
@@ -46,6 +50,7 @@
      title="PostgreSQL" width="40" height="40" style="max-width: 100%;"></a>
     <br>
     <br>
+    <br>
     <p>Back-end Languages</p>
     <a href="https://www.ruby-lang.org/en/" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" style="cursor:pointer;"
      title="Ruby" width="40" height="40" style="max-width: 100%;"></a>&nbsp;&nbsp;
@@ -53,11 +58,13 @@
      title="Python" width="40" height="40" style="max-width: 100%;"></a> 
     <br>
     <br>
+    <br>
     <p>Full Stack Frameworks</p>
     <a href="https://rubyonrails.org" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-plain.svg" alt="rails" style="cursor:pointer;"
      title="Rails" width="40" height="40" style="max-width: 100%;"></a>&nbsp;&nbsp;
     <a href="https://www.wordpress.org/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/wordpress.svg" alt="wordpress" style="cursor:pointer;"
      title="WordPress" width="40" height="40" style="max-width: 100%;"></a>
+    <br>
     <br>
     <br>
     <p>Front-end Languages</p>
@@ -71,6 +78,7 @@
      title="JavaScript" width="40" height="40" style="max-width: 100%;"></a>
     <br>
     <br>
+    <br>
     <p>Front-end Frameworks</p>
     <a href="https://tailwindcss.com/" rel="nofollow"><img src="https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000" alt="tailwind" style="cursor:pointer;"
      title="Tailwind" width="40" height="40" style="max-width: 100%;"></a>&nbsp;&nbsp; 
@@ -78,6 +86,7 @@
      title="Bootstrap" width="40" height="40" style="max-width: 100%;"></a>&nbsp;&nbsp;
     <a href="https://react.dev/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="reactjs" style="cursor:pointer;"
      title="ReactJS" width="40" height="40" style="max-width: 100%;"></a>
+    <br>
     <br>
     <br>
     <p>Deployment Platforms</p>
