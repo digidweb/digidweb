@@ -60,7 +60,7 @@
 <ul class="heading-element"  dir="auto">   
      <li>:muscle: 10+ years of experience in building websites with WordPress;</li>
      <li>:triangular_ruler: Working as a Self-Employeed Developer;</li>
-     <li>👁️ RubyOnRio Community Leader</li>
+     <li>👁️ RubyOnRio Dev Community Leader</li>
      <li>:books: Ongoing Degree in Information Systems;</li>
      <li>:gem: Systemic Thinking and Aesthetic Sense;</li>
      <li>:bulb: Free/Libre Software Enthusiast</li>
