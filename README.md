@@ -16,8 +16,7 @@
     <p>Shells</p>
     <a href="https://www.gnu.org/software/bash/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/shell-light.svg" alt="bash" style="cursor:pointer;"
      title="Bash" width="40" height="40" style="max-width: 100%;"></a>    
-    <a href="https://www.zsh.org/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/shell-light.svg" alt="zsh" style="cursor:pointer;"
-     title="Zsh" width="40" height="40" style="max-width: 100%;"></a>
+    <a href="https://www.zsh.org/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zsh/zsh-original.svg" alt="zsh" style="cursor:pointer;" title="Zsh" width="40" height="40" style="max-width: 100%;"></a>
     <br>
     <br>
     <p>Development Tools</p>
