@@ -30,11 +30,13 @@
     <a href="https://www.figma.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="figma" style="cursor:pointer;"
      title="Figma" width="40" height="40" style="max-width: 100%;"></a>
     <br>
+    <br>
     <p>Data Bases</p>
     <a href="https://www.sqlite.org/index.html" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" alt="sqlite" style="cursor:pointer;"
      title="SQLite" width="40" height="40" style="max-width: 100%;"></a>    
     <a href="https://www.postgresql.org" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="postgresql" style="cursor:pointer;"
      title="PostgreSQL" width="40" height="40" style="max-width: 100%;"></a>
+    <br>
     <br>
     <p>Backend Languages</p>
     <a href="https://www.ruby-lang.org/en/" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" style="cursor:pointer;"
