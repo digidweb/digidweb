@@ -7,6 +7,8 @@
 <h3 class="heading-element" dir="auto">💻 My Tech Stack</h3>
 <div class="d-flex flex-justify-between">
     <p>Operating Systems</p>
+     <a href="https://www.gnu.org/" rel="nofollow"><img src="https://github.com/digidweb/digidweb/blob/main/gnuLogo.png" alt="gnu" style="cursor:pointer;"
+     title="Gnu" width="55" height="50" style="max-width: 100%;"></a>&nbsp;&nbsp; 
     <a href="https://www.debian.org/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" alt="debian" style="cursor:pointer;"
      title="Debian" width="40" height="40" style="max-width: 100%;"></a>&nbsp;&nbsp; 
     <a href="https://ubuntu.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" alt="ubuntu" style="cursor:pointer;"
