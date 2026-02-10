@@ -16,7 +16,7 @@
     <a href="https://ubuntu.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" alt="ubuntu" style="cursor:pointer;"
      title="Ubuntu" width="40" height="40" style="max-width: 100%;"></a>
     <a href="https://ubuntu.com/" rel="nofollow"><img src="https://github.com/digidweb/digidweb/blob/main/zOSLogo.png" alt="zOS" style="cursor:pointer;"
-     title="zOS" width="70" height="50" style="max-width: 100%;"></a>
+     title="zOS" width="80" height="60" style="max-width: 100%;"></a>
     <br>
     <br>
     <br>
