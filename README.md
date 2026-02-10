@@ -55,7 +55,9 @@
     <a href="https://www.ruby-lang.org/en/" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" style="cursor:pointer;"
      title="Ruby" width="40" height="40" style="max-width: 100%;"></a>&nbsp;&nbsp;
     <a href="https://www.python.org" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" style="cursor:pointer;"
-     title="Python" width="40" height="40" style="max-width: 100%;"></a>   
+     title="Python" width="45" height="45" style="max-width: 100%;"></a>   
+    <a href="https://www.ibm.com/products/cobol-compiler-family" rel="nofollow"><img src="https://github.com/digidweb/digidweb/blob/main/cobol-svgrepo-com.svg" alt="cobol" style="cursor:pointer;"
+     title="Cobol" width="60" height="50" style="max-width: 100%;"></a> 
     <br>
     <br>
     <br>
