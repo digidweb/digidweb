@@ -55,7 +55,7 @@
     <a href="https://www.ruby-lang.org/en/" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" style="cursor:pointer;"
      title="Ruby" width="40" height="40" style="max-width: 100%;"></a>&nbsp;&nbsp;
     <a href="https://www.python.org" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" style="cursor:pointer;"
-     title="Python" width="40" height="40" style="max-width: 100%;"></a> 
+     title="Python" width="40" height="40" style="max-width: 100%;"></a>   
     <br>
     <br>
     <br>
@@ -92,7 +92,7 @@
     <p>Deployment Platforms</p>
     <a href="https://www.heroku.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-plain.svg" alt="heroku" style="cursor:pointer;"
      title="Heroku" width="40" height="40" style="max-width: 100%;"></a>       
-</div>    
+</div>
 <br>
 
 <br>
