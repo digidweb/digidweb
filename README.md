@@ -61,7 +61,7 @@
     <a href="https://www.ruby-lang.org/en/" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" style="cursor:pointer;"
      title="Ruby" width="40" height="40" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.python.org" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" style="cursor:pointer;"
-     title="Python" width="45" height="45" style="max-width: 100%;"></a>&nbsp;&nbsp;   
+     title="Python" width="45" height="45" style="max-width: 100%;"></a>&nbsp;   
     <a href="https://www.ibm.com/products/cobol-compiler-family" rel="nofollow"><img src="https://github.com/digidweb/digidweb/blob/main/cobol-svgrepo-com.svg" alt="cobol" style="cursor:pointer;"
      title="Cobol" width="60" height="50" style="max-width: 100%;"></a> 
     <br>
@@ -89,9 +89,9 @@
     <br>
     <p>Front-end Frameworks</p>
     <a href="https://tailwindcss.com/" rel="nofollow"><img src="https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000" alt="tailwind" style="cursor:pointer;"
-     title="Tailwind" width="40" height="40" style="max-width: 100%;"></a>&nbsp;&nbsp; 
+     title="Tailwind" width="40" height="40" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;&nbsp; 
     <a href="https://getbootstrap.com" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="boostrap" style="cursor:pointer;"
-     title="Bootstrap" width="40" height="40" style="max-width: 100%;"></a>&nbsp;&nbsp;
+     title="Bootstrap" width="40" height="40" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://react.dev/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="reactjs" style="cursor:pointer;"
      title="ReactJS" width="40" height="40" style="max-width: 100%;"></a>
     <br>
