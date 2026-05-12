@@ -77,11 +77,11 @@
     <br>
     <p>Front-end Languages</p>
     <a href="https://www.w3.org/html/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html5" style="cursor:pointer;"
-     title="HTML5" width="40" height="40" style="max-width: 100%;"></a>&nbsp;&nbsp; 
+     title="HTML5" width="40" height="40" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;&nbsp; 
     <a href="https://www.w3.org/Style/CSS/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css3" style="cursor:pointer;"
-     title="CSS3" width="40" height="40" style="max-width: 100%;"></a>&nbsp;&nbsp; 
+     title="CSS3" width="40" height="40" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;&nbsp; 
     <a href="https://sass-lang.com" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" style="cursor:pointer;"
-     title="Sass" width="40" height="40" style="max-width: 100%;"></a>&nbsp;&nbsp;     
+     title="Sass" width="40" height="40" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;&nbsp;     
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" style="cursor:pointer;"
      title="JavaScript" width="40" height="40" style="max-width: 100%;"></a>
     <br>
