@@ -12,7 +12,7 @@
      <a href="https://www.linux.org/pages/download/" rel="nofollow"><img src="https://github.com/digidweb/digidweb/blob/main/linuxLogo..svg" alt="linux" style="cursor:pointer;"
      title="Linux" width="50" height="90" style="max-width: 90%;"></a>&nbsp;&nbsp; 
     <a href="https://www.debian.org/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" alt="debian" style="cursor:pointer;"
-     title="Debian" width="40" height="40" style="max-width: 100%;"></a>&nbsp;&nbsp; 
+     title="Debian" width="40" height="40" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp; 
     <a href="https://ubuntu.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" alt="ubuntu" style="cursor:pointer;"
      title="Ubuntu" width="40" height="40" style="max-width: 100%;"></a>
     <a href="https://www.ibm.com/products/zos" rel="nofollow"><img src="https://github.com/digidweb/digidweb/blob/main/zOSLogo.png" alt="zOS" style="cursor:pointer;"
