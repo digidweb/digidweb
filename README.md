@@ -43,7 +43,7 @@
     <br>
     <p>Code Repositories</p>
     <a href="https://codeberg.org/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/codeberg.svg" alt="codeberg" style="cursor:pointer;"
-     title="Codeberg" width="40" height="40" style="max-width: 100%;"></a>&nbsp;&nbsp;
+     title="Codeberg" width="40" height="40" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://about.gitlab.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/gitlab.svg" alt="gitlab" style="cursor:pointer;"
      title="Gitlab" width="40" height="40" style="max-width: 100%;"></a>
     <br>
@@ -51,7 +51,7 @@
     <br>
     <p>Data Bases</p>
     <a href="https://www.sqlite.org/index.html" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" alt="sqlite" style="cursor:pointer;"
-     title="SQLite" width="40" height="40" style="max-width: 100%;"></a>&nbsp;&nbsp;    
+     title="SQLite" width="40" height="40" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;&nbsp;    
     <a href="https://www.postgresql.org" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="postgresql" style="cursor:pointer;"
      title="PostgreSQL" width="40" height="40" style="max-width: 100%;"></a>
     <br>
@@ -59,7 +59,7 @@
     <br>
     <p>Back-end Languages</p>
     <a href="https://www.ruby-lang.org/en/" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" style="cursor:pointer;"
-     title="Ruby" width="40" height="40" style="max-width: 100%;"></a>&nbsp;&nbsp;
+     title="Ruby" width="40" height="40" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.python.org" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" style="cursor:pointer;"
      title="Python" width="45" height="45" style="max-width: 100%;"></a>   
     <a href="https://www.ibm.com/products/cobol-compiler-family" rel="nofollow"><img src="https://github.com/digidweb/digidweb/blob/main/cobol-svgrepo-com.svg" alt="cobol" style="cursor:pointer;"
