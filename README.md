@@ -106,10 +106,10 @@
 <br>
 <h3 class="heading-element" dir="auto">👨🏼‍💻 About me</h3>
 <ul class="heading-element"  dir="auto">   
-     <li>:muscle: 10+ years of experience in building websites with WordPress;</li>
      <li>:triangular_ruler: Working as a Self-Employeed Developer;</li>
      <li>👁️ RubyOnRio Dev Community Leader;</li>
      <li>:books: Ongoing Degree in Information Systems;</li>
+     <li>:muscle: 10+ years of experience in building websites with WordPress;</li>
      <li>:gem: Systemic Thinking and Aesthetic Sense;</li>
      <li>:bulb: Free/Libre Software Enthusiast</li>
 </ul>
@@ -117,7 +117,7 @@
 
 <h3 class="heading-element" dir="auto">:rocket: Above and Beyond</h3>
 <ul>
-<li>:earth_americas: Building an international carer;</li>
+<li>:earth_americas: Building an international career;</li>
 <li>🌱 Learning Spec-Driven Design;</li>
 <li>👯 Willing to collaborate on Ruby on Rails Libre/Open Source projects;</li>
 <li>🤔 Trying to understand the connection between memory allocation and software performace;</li>
