@@ -117,7 +117,7 @@
 
 <h3 class="heading-element" dir="auto">:rocket: Above and Beyond</h3>
 <ul>
-<li>:earth_americas: Looking for a job in a company;</li>
+<li>:earth_americas: Building an international carer;</li>
 <li>🌱 Learning Spec-Driven Design;</li>
 <li>👯 Willing to collaborate on Ruby on Rails Libre/Open Source projects;</li>
 <li>🤔 Trying to understand the connection between memory allocation and software performace;</li>
