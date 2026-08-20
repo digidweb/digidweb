@@ -104,6 +104,31 @@
 <br>
 
 <br>
+<h3>🚀 Featured Projects</h3>
+
+
+### 🍽️ [Prefê](https://github.com/digidweb/Prefe)
+Favorite restaurant list app with asynchronous background processing and paginated listings.
+Built fullstack and architected from scratch — models, controllers, jobs, and test suite.
+
+`Ruby on Rails` `PostgreSQL` `Sidekiq` `Redis` `Kaminari` `RSpec` `TDD`
+
+
+### 🌎 [TravelShield](https://github.com/DevThiCosta/lewagon-travelShield)
+Web app for travelers to identify high-risk areas in real time using interactive maps.
+Role: frontend development and Mapbox API integration. Le Wagon final project.
+
+`Ruby on Rails` `Mapbox API` `Devise` `Pagy` `Pg Search`
+
+
+### 🎟️ [Middle](https://github.com/DevThiCosta/lewagon-middle)
+Ticket buying and selling marketplace — create events, list tickets, and manage orders end-to-end.
+Role: interface development with Stimulus.js and Cloudinary integration. Le Wagon final project.
+
+`Ruby on Rails` `Stimulus.js` `Cloudinary` `Simple Form`
+<br>
+
+<br>
 <h3 class="heading-element" dir="auto">👨🏼‍💻 About me</h3>
 <ul class="heading-element"  dir="auto">   
      <li>:triangular_ruler: Working as a Self-Employeed Developer;</li>
