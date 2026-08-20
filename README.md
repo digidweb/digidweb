@@ -1,12 +1,10 @@
-<h1 class="heading-element" align="center" dir="auto">Hello World! I'm Leo 👋🏽</h1>
-
 <br>
-<h2 align="center" class="heading-element" dir="auto">Full-Stack Web Developer</h2>
+<h1 align="center" class="heading-element" dir="auto">Full-Stack Web Developer</h1>
 <br>
 
-<h3 class="heading-element" dir="auto">💻 My Tech Stack</h3>
+<h3 class="heading-element" dir="auto">My Tech Stack</h3>
 <div class="d-flex flex-justify-between">
-    <p>Operating Systems</p>
+   <!-- <p>Operating Systems</p>
      <a href="https://www.gnu.org/" rel="nofollow"><img src="https://github.com/digidweb/digidweb/blob/main/gnuLogo.png" alt="gnu" style="cursor:pointer;"
      title="Gnu" width="55" height="50" style="max-width: 100%;"></a>&nbsp;&nbsp; 
      <a href="https://www.linux.org/pages/download/" rel="nofollow"><img src="https://github.com/digidweb/digidweb/blob/main/linuxLogo..svg" alt="linux" style="cursor:pointer;"
@@ -19,7 +17,7 @@
      title="zOS" width="80" height="60" style="max-width: 100%;"></a>
     <br>
     <br>
-    <br>
+    <br> -->
     <p>Shells</p>
     <a href="https://www.gnu.org/software/bash/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/shell-light.svg" alt="bash" style="cursor:pointer;"
      title="Bash" width="40" height="40" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -62,8 +60,8 @@
      title="Ruby" width="40" height="40" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.python.org" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" style="cursor:pointer;"
      title="Python" width="45" height="45" style="max-width: 100%;"></a>&nbsp;   
-    <a href="https://www.ibm.com/products/cobol-compiler-family" rel="nofollow"><img src="https://github.com/digidweb/digidweb/blob/main/cobol-svgrepo-com.svg" alt="cobol" style="cursor:pointer;"
-     title="Cobol" width="60" height="50" style="max-width: 100%;"></a> 
+    <!--<a href="https://www.ibm.com/products/cobol-compiler-family" rel="nofollow"><img src="https://github.com/digidweb/digidweb/blob/main/cobol-svgrepo-com.svg" alt="cobol" style="cursor:pointer;"
+     title="Cobol" width="60" height="50" style="max-width: 100%;"></a> -->
     <br>
     <br>
     <br>
@@ -104,7 +102,7 @@
 <br>
 
 <br>
-<h3>🚀 Featured Projects</h3>
+<h3>Featured Projects</h3>
 
 
 ### 🍽️ [Prefê](https://github.com/digidweb/Prefe)
@@ -129,23 +127,23 @@ Role: interface development with Stimulus.js and Cloudinary integration. Le Wago
 <br>
 
 <br>
-<h3 class="heading-element" dir="auto">👨🏼‍💻 About me</h3>
+<h3 class="heading-element" dir="auto">About me</h3>
 <ul class="heading-element"  dir="auto">   
      <li>:triangular_ruler: Working as a Self-Employed Developer;</li>
+     <li>:muscle: 10+ years of Web development experience → Ruby/Rails specialization → Full Stack</li>
      <li>👁️ RubyOnRio Dev Community Leader;</li>
      <li>:books: Ongoing Degree in Information Systems;</li>
-     <li>:muscle: 10+ years of experience in building websites with WordPress;</li>
      <li>:gem: Systemic Thinking and Aesthetic Sense;</li>
      <li>:bulb: Free/Libre Software Enthusiast</li>
 </ul>
 <br>
 
-<h3 class="heading-element" dir="auto">:rocket: Above and Beyond</h3>
+<h3 class="heading-element" dir="auto">Above and Beyond</h3>
 <ul>
 <li>:earth_americas: Building an international career;</li>
 <li>🌱 Learning Spec-Driven Design;</li>
 <li>👯 Willing to collaborate on Ruby on Rails Libre/Open Source projects;</li>
-<li>🤔 Trying to understand the connection between memory allocation and software performance;</li>
+<li>🤔 Interested in understanding the connection between memory allocation and software performance;</li>
 <li>💬 You can ask me about building websites with WordPress or about Libre/Free Software;</li>
 </ul>
 <br>
