@@ -129,7 +129,7 @@ Role: interface development with Stimulus.js and Cloudinary integration. Le Wago
 <br>
 <h3 class="heading-element" dir="auto">About me</h3>
 <ul class="heading-element"  dir="auto">   
-     <li>:triangular_ruler: Working as a Self-Employed Developer;</li>
+     <li>:triangular_ruler: Working as a Freelance Developer;</li>
      <li>:muscle: 10+ years of Web development experience → Ruby/Rails specialization → Full Stack</li>
      <li>👁️ RubyOnRio Dev Community Leader;</li>
      <li>:books: Ongoing Degree in Information Systems;</li>
