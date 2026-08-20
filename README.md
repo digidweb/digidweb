@@ -2,7 +2,7 @@
 <h1 align="center" class="heading-element" dir="auto">Full-Stack Developer</h1>
 <br>
 
-<h3 class="heading-element" dir="auto">My Tech Stack</h3>
+<h2 class="heading-element" dir="auto">My Tech Stack</h2>
 <div class="d-flex flex-justify-between">
    <!-- <p>Operating Systems</p>
      <a href="https://www.gnu.org/" rel="nofollow"><img src="https://github.com/digidweb/digidweb/blob/main/gnuLogo.png" alt="gnu" style="cursor:pointer;"
@@ -102,7 +102,7 @@
 <br>
 
 <br>
-<h3>Featured Projects</h3>
+<h2>Featured Projects</h2>
 
 
 ### 🍽️ [Prefê](https://github.com/digidweb/Prefe)
@@ -127,7 +127,7 @@ Role: interface development with Stimulus.js and Cloudinary integration. Le Wago
 <br>
 
 <br>
-<h3 class="heading-element" dir="auto">About me</h3>
+<h2 class="heading-element" dir="auto">About me</h2>
 <ul class="heading-element"  dir="auto">   
      <li>:triangular_ruler: Working as a Freelance Developer;</li>
      <li>:muscle: 10+ years of Web development experience → Ruby/Rails specialization → Full Stack</li>
@@ -138,7 +138,7 @@ Role: interface development with Stimulus.js and Cloudinary integration. Le Wago
 </ul>
 <br>
 
-<h3 class="heading-element" dir="auto">Above and Beyond</h3>
+<h2 class="heading-element" dir="auto">Above and Beyond</h2>
 <ul>
 <li>:earth_americas: Building an international career;</li>
 <li>🌱 Learning Spec-Driven Design;</li>
