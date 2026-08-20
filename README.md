@@ -1,5 +1,5 @@
 <br>
-<h1 align="center" class="heading-element" dir="auto">Full-Stack Web Developer</h1>
+<h1 align="center" class="heading-element" dir="auto">Full-Stack Developer</h1>
 <br>
 
 <h3 class="heading-element" dir="auto">My Tech Stack</h3>
