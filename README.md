@@ -145,7 +145,7 @@ Role: interface development with Stimulus.js and Cloudinary integration. Le Wago
 <li>:earth_americas: Building an international career;</li>
 <li>🌱 Learning Spec-Driven Design;</li>
 <li>👯 Willing to collaborate on Ruby on Rails Libre/Open Source projects;</li>
-<li>🤔 Trying to understand the connection between memory allocation and software performace;</li>
+<li>🤔 Trying to understand the connection between memory allocation and software performance;</li>
 <li>💬 You can ask me about building websites with WordPress or about Libre/Free Software;</li>
 </ul>
 <br>
