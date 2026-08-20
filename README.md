@@ -101,32 +101,28 @@
 </div>
 <br>
 
-<br>
-<h2>Featured Projects</h2>
+## Featured Projects
 
+### 🛍️ [ProductsApp](https://github.com/digidweb/products-app)
+
+Fullstack product management application built with a decoupled Rails API and React frontend. Includes RESTful endpoints, PostgreSQL persistence, CRUD operations, and a responsive React interface.
+
+`Ruby on Rails` `Rails API` `React` `PostgreSQL` `REST API` `Docker`
 
 ### 🍽️ [Prefê](https://github.com/digidweb/Prefe)
-Favorite restaurant list app with asynchronous background processing and paginated listings.
-Built fullstack and architected from scratch — models, controllers, jobs, and test suite.
+
+Favorite restaurant list app with asynchronous background processing and paginated listings. Built fullstack and architected from scratch — models, controllers, jobs, and test suite.
 
 `Ruby on Rails` `PostgreSQL` `Sidekiq` `Redis` `Kaminari` `RSpec` `TDD`
 
+### 💰 [Loan Risk](https://github.com/digidweb/loan-risk)
 
-### 🌎 [TravelShield](https://github.com/DevThiCosta/lewagon-travelShield)
-Web app for travelers to identify high-risk areas in real time using interactive maps.
-Role: frontend development and Mapbox API integration. Le Wagon final project.
+REST API for managing geographic concentration risk in loan portfolios. Designed with a domain-driven approach using Service Objects, PostgreSQL transactions, configurable business rules, and automated tests.
 
-`Ruby on Rails` `Mapbox API` `Devise` `Pagy` `Pg Search`
-
-
-### 🎟️ [Middle](https://github.com/DevThiCosta/lewagon-middle)
-Ticket buying and selling marketplace — create events, list tickets, and manage orders end-to-end.
-Role: interface development with Stimulus.js and Cloudinary integration. Le Wagon final project.
-
-`Ruby on Rails` `Stimulus.js` `Cloudinary` `Simple Form`
-<br>
+`Ruby on Rails` `PostgreSQL` `REST API` `Service Objects` `RSpec` `ACID Transactions`
 
 <br>
+
 <h2 class="heading-element" dir="auto">About me</h2>
 <ul class="heading-element"  dir="auto">   
      <li>:triangular_ruler: Working as a Freelance Developer;</li>
