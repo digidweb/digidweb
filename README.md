@@ -86,12 +86,12 @@
     <br>
     <br>
     <p>Front-end Frameworks</p>
-    <a href="https://tailwindcss.com/" rel="nofollow"><img src="https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000" alt="tailwind" style="cursor:pointer;"
-     title="TailwindCSS" width="40" height="40" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;&nbsp; 
     <a href="https://getbootstrap.com" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="boostrap" style="cursor:pointer;"
      title="Bootstrap" width="40" height="40" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://react.dev/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="reactjs" style="cursor:pointer;"
-     title="ReactJS" width="40" height="40" style="max-width: 100%;"></a>
+     title="ReactJS" width="40" height="40" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+       <a href="https://tailwindcss.com/" rel="nofollow"><img src="https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000" alt="tailwind" style="cursor:pointer;"
+     title="TailwindCSS" width="40" height="40" style="max-width: 100%;"></a> 
     <br>
     <br>
     <br>
@@ -137,9 +137,9 @@ REST API for managing geographic concentration risk in loan portfolios. Designed
 
 <h2 class="heading-element" dir="auto">Above and Beyond</h2>
 <ul>
-   <li>🌱 Learning Spec-Driven Development;</li>
-   <li>🤔 Exploring the connection between Ruby performance and memory management;</li>
-   <li>👯 Willing to collaborate on Ruby on Rails Libre/Open Source projects;</li>
+   <li>🌱 Learning Spec-Driven Development</li>
+   <li>🤔 Exploring the connection between Ruby performance and memory management</li>
+   <li>👯 Willing to collaborate on Ruby and/or Rails Open Source or Free (as in freedom) projects</li>
 </ul>
 <br>
 
