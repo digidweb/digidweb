@@ -1,5 +1,5 @@
 <br>
-<h1 align="center" class="heading-element" dir="auto">Full Stack Developer</h1>
+<h1 align="center" class="heading-element" dir="auto">👨‍💻 Full Stack Developer</h1>
 <br>
 
 <h2 class="heading-element" dir="auto">My Tech Stack</h2>
@@ -123,24 +123,23 @@ REST API for managing geographic concentration risk in loan portfolios. Designed
 
 <br>
 
-<h2 class="heading-element" dir="auto">About me</h2>
-<ul class="heading-element"  dir="auto">   
-     <li>:triangular_ruler: Working as a Freelance Developer;</li>
-     <li>:muscle: 10+ years of Web development experience → Ruby/Rails specialization → Full Stack</li>
-     <li>👁️ RubyOnRio Dev Community Leader;</li>
-     <li>:books: Ongoing Degree in Information Systems;</li>
-     <li>:gem: Systemic Thinking and Aesthetic Sense;</li>
-     <li>:bulb: Free/Libre Software Enthusiast</li>
+<h2 class="heading-element" dir="auto">About Me</h2>
+<ul class="heading-element"  dir="auto">
+   <li>💎 Full Stack Developer focused on Ruby on Rails</li>
+   <li>💪 10+ years of experience building websites and web solutions</li>
+   <li>🧠 2+ years specializing in backend development with Ruby on Rails</li>
+   <li>⚛️ Experience integrating Rails APIs with React frontends</li>
+   <li>🧪 Focused on automated testing, clean code, and maintainable architecture</li>
+   <li>:mountain_cableway: RubyOnRio Dev Community Leader</li>
+   <li>:mortar_board: Information Systems degree in progress</li>
 </ul>
 <br>
 
 <h2 class="heading-element" dir="auto">Above and Beyond</h2>
 <ul>
-<li>:earth_americas: Building an international career;</li>
-<li>🌱 Learning Spec-Driven Design;</li>
-<li>👯 Willing to collaborate on Ruby on Rails Libre/Open Source projects;</li>
-<li>🤔 Interested in understanding the connection between memory allocation and software performance;</li>
-<li>💬 You can ask me about building websites with WordPress or about Libre/Free Software;</li>
+   <li>🌱 Learning Spec-Driven Development;</li>
+   <li>🤔 Exploring the connection between Ruby performance and memory management;</li>
+   <li>👯 Willing to collaborate on Ruby on Rails Libre/Open Source projects;</li>
 </ul>
 <br>
 
