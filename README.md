@@ -103,7 +103,7 @@
 
 ## Featured Projects
 
-### 🛍️ [ProductsApp](https://github.com/digidweb/products-app)
+### 🛍️ [Products App](https://github.com/digidweb/products-app)
 
 Fullstack product management application built with a decoupled Rails API and React frontend. Includes RESTful endpoints, PostgreSQL persistence, CRUD operations, and a responsive React interface.
 
