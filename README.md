@@ -127,7 +127,7 @@ REST API for managing geographic concentration risk in loan portfolios. Designed
 <ul class="heading-element"  dir="auto">
    <li>💎 Full Stack Developer focused on Ruby on Rails</li>
    <li>💪 10+ years of experience building websites and web solutions</li>
-   <li>🧠 2+ years specializing in backend development with Ruby on Rails</li>
+   <li>🧠 2+ years specializing in full stack development with Ruby on Rails</li>
    <li>⚛️ Experience integrating Rails APIs with React frontends</li>
    <li>🧪 Focused on automated testing, clean code, and maintainable architecture</li>
    <li>:mountain_cableway: RubyOnRio Dev Community Leader</li>
