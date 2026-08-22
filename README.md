@@ -32,10 +32,10 @@
      title="VSCode" width="40" height="40" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://vscodium.com/" rel="nofollow"><img src="https://github.com/user-attachments/assets/d051d389-518b-4a02-baae-a13ae0c3cd74" alt="vscodium" style="cursor:pointer;"
      title="VSCodium" width="40" height="40" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://penpot.app/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/penpot-light.svg" alt="penpot" style="cursor:pointer;"
-     title="Penpot" width="40" height="40" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.figma.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="figma" style="cursor:pointer;"
-     title="Figma" width="40" height="40" style="max-width: 100%;"></a>
+   <a href="https://www.figma.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="figma" style="cursor:pointer;"
+     title="Figma" width="40" height="40" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="https://penpot.app/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/penpot-light.svg" alt="penpot" style="cursor:pointer;"
+     title="Penpot" width="40" height="40" style="max-width: 100%;"></a>
     <br>
     <br>
     <br>
@@ -48,10 +48,10 @@
     <br>
     <br>
     <p>Data Bases</p>
-    <a href="https://www.sqlite.org/index.html" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" alt="sqlite" style="cursor:pointer;"
-     title="SQLite" width="40" height="40" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;&nbsp;    
     <a href="https://www.postgresql.org" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="postgresql" style="cursor:pointer;"
-     title="PostgreSQL" width="40" height="40" style="max-width: 100%;"></a>
+     title="PostgreSQL" width="40" height="40" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.sqlite.org/index.html" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" alt="sqlite" style="cursor:pointer;"
+     title="SQLite" width="40" height="40" style="max-width: 100%;"></a>   
     <br>
     <br>
     <br>
