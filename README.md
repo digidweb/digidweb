@@ -103,19 +103,19 @@
 
 ## Featured Projects
 
-### 🛍️ [Products App](https://github.com/digidweb/products-app)
+### [Products App](https://github.com/digidweb/products-app) 📦
 
 Fullstack product management application built with a decoupled Rails API and React frontend. Includes RESTful endpoints, PostgreSQL persistence, CRUD operations, and a responsive React interface.
 
 `Ruby on Rails` `Rails API` `React` `PostgreSQL` `REST API` `Docker`
 
-### 🍽️ [Prefê](https://github.com/digidweb/Prefe)
+### [Prefê](https://github.com/digidweb/Prefe) 🍽️ 
 
 Favorite restaurant list app with asynchronous background processing and paginated listings. Built fullstack and architected from scratch — models, controllers, jobs, and test suite.
 
 `Ruby on Rails` `PostgreSQL` `Sidekiq` `Redis` `Kaminari` `RSpec` `TDD`
 
-### 💰 [Loan Risk](https://github.com/digidweb/loan-risk)
+### [Loan Risk](https://github.com/digidweb/loan-risk) 💰 
 
 REST API for managing geographic concentration risk in loan portfolios. Designed with a domain-driven approach using Service Objects, PostgreSQL transactions, configurable business rules, and automated tests.
 
