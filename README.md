@@ -98,10 +98,10 @@
     <br>
     <br>
     <p>Deployment Platforms</p>
+    <a href="https://www.render.com/" rel="nofollow"><img src="https://avatars.githubusercontent.com/u/36424661?s=200&v=4" alt="Render" style="cursor:pointer;"
+     title="Render" width="40" height="40" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.heroku.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-plain.svg" alt="Heroku" style="cursor:pointer;"
-     title="Heroku" width="40" height="40" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.render.com/" rel="nofollow"><img src="https://brandfetch.com/render.com?view=library&library=default&collection=logos&asset=idNBsqZbYC&utm_source=https%253A%252F%252Fbrandfetch.com%252Frender.com&utm_medium=copyAction&utm_campaign=brandPageReferral" alt="Render" style="cursor:pointer;"
-     title="Render" width="40" height="40" style="max-width: 100%;"></a>
+     title="Heroku" width="40" height="40" style="max-width: 100%;"></a>
 </div>
 <br>
 
