@@ -4,20 +4,6 @@
 
 <h2 class="heading-element" dir="auto">My Tech Stack</h2>
 <div class="d-flex flex-justify-between">
-   <!-- <p>Operating Systems</p>
-     <a href="https://www.gnu.org/" rel="nofollow"><img src="https://github.com/digidweb/digidweb/blob/main/gnuLogo.png" alt="gnu" style="cursor:pointer;"
-     title="Gnu" width="55" height="50" style="max-width: 100%;"></a>&nbsp;&nbsp; 
-     <a href="https://www.linux.org/pages/download/" rel="nofollow"><img src="https://github.com/digidweb/digidweb/blob/main/linuxLogo..svg" alt="linux" style="cursor:pointer;"
-     title="Linux" width="50" height="90" style="max-width: 90%;"></a>&nbsp;&nbsp; 
-    <a href="https://www.debian.org/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" alt="debian" style="cursor:pointer;"
-     title="Debian" width="40" height="40" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-    <a href="https://ubuntu.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" alt="ubuntu" style="cursor:pointer;"
-     title="Ubuntu" width="40" height="40" style="max-width: 100%;"></a>
-    <a href="https://www.ibm.com/products/zos" rel="nofollow"><img src="https://github.com/digidweb/digidweb/blob/main/zOSLogo.png" alt="zOS" style="cursor:pointer;"
-     title="zOS" width="80" height="60" style="max-width: 100%;"></a>
-    <br>
-    <br>
-    <br> -->
     <p>Shells</p>
     <a href="https://www.gnu.org/software/bash/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/shell-light.svg" alt="bash" style="cursor:pointer;"
      title="Bash" width="40" height="40" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -62,8 +48,6 @@
      title="Ruby" width="40" height="40" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.python.org" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" style="cursor:pointer;"
      title="Python" width="45" height="45" style="max-width: 100%;"></a>&nbsp;   
-    <!--<a href="https://www.ibm.com/products/cobol-compiler-family" rel="nofollow"><img src="https://github.com/digidweb/digidweb/blob/main/cobol-svgrepo-com.svg" alt="cobol" style="cursor:pointer;"
-     title="Cobol" width="60" height="50" style="max-width: 100%;"></a> -->
     <br>
     <br>
     <br>
