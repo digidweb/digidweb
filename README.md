@@ -26,15 +26,17 @@
     <br>
     <br>
     <p>Development Tools</p>
-    <a href="https://git-scm.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" style="cursor:pointer;"
+    <a href="https://git-scm.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" style="cursor:pointer;"
      title="Git" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://code.visualstudio.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" style="cursor:pointer;"
      title="VSCode" width="40" height="40" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://vscodium.com/" rel="nofollow"><img src="https://github.com/user-attachments/assets/d051d389-518b-4a02-baae-a13ae0c3cd74" alt="vscodium" style="cursor:pointer;"
+    <a href="https://vscodium.com/" rel="nofollow"><img src="https://github.com/user-attachments/assets/d051d389-518b-4a02-baae-a13ae0c3cd74" alt="VSCodium" style="cursor:pointer;"
      title="VSCodium" width="40" height="40" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-   <a href="https://www.figma.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="figma" style="cursor:pointer;"
+   <a href="https://rspec.info/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rspec/rspec-original.svg" alt="RSpec" style="cursor:pointer;"
+     title="RSpec" width="40" height="40" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="https://www.figma.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma" style="cursor:pointer;"
      title="Figma" width="40" height="40" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-   <a href="https://penpot.app/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/penpot-light.svg" alt="penpot" style="cursor:pointer;"
+   <a href="https://penpot.app/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/penpot-light.svg" alt="Penpot" style="cursor:pointer;"
      title="Penpot" width="40" height="40" style="max-width: 100%;"></a>
     <br>
     <br>
@@ -96,8 +98,10 @@
     <br>
     <br>
     <p>Deployment Platforms</p>
-    <a href="https://www.heroku.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-plain.svg" alt="heroku" style="cursor:pointer;"
-     title="Heroku" width="40" height="40" style="max-width: 100%;"></a>       
+    <a href="https://www.heroku.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-plain.svg" alt="Heroku" style="cursor:pointer;"
+     title="Heroku" width="40" height="40" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.render.com/" rel="nofollow"><img src="https://brandfetch.com/render.com?view=library&library=default&collection=logos&asset=idNBsqZbYC&utm_source=https%253A%252F%252Fbrandfetch.com%252Frender.com&utm_medium=copyAction&utm_campaign=brandPageReferral" alt="Render" style="cursor:pointer;"
+     title="Render" width="40" height="40" style="max-width: 100%;"></a>
 </div>
 <br>
 
