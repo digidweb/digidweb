@@ -1,8 +1,8 @@
 <h1 align="center" class="heading-element" dir="auto">Hi, I'm Leo 👋🏽</h1>
 
-<p align="center"><strong>Creativity becomes technology</strong></p>
+<h2 align="center"><strong>Creativity becomes technology</strong></h2>
 
-### Junior Full Stack Developer (Ruby on Rails / React) — 20+ years turning ideas into products, now shipping them in code.
+**Junior Full Stack Developer (Ruby on Rails / React) — 20+ years turning ideas into products, now shipping them in code.**
 
 I spent two decades building businesses and teaching people — now I build web apps. I bring a founder's eye for what actually matters to the user, backed by clean, tested Rails code.
 
