@@ -1,8 +1,37 @@
-<br>
-<h1 align="center" class="heading-element" dir="auto">👨‍💻 Full Stack Developer</h1>
+<h1 align="center" class="heading-element" dir="auto">Hi, I'm Leo 👋🏽</h1>
+
+<p align="center"><strong>Creativity becomes technology</strong></p>
+
+### Junior Full Stack Developer (Ruby on Rails / React) — 20+ years turning ideas into products, now shipping them in code.
+
+I spent two decades building businesses and teaching people — now I build web apps. I bring a founder's eye for what actually matters to the user, backed by clean, tested Rails code.
+
+---
+
+## 💼 Experience
+
+- **Junior Full Stack Developer @ [KodeBrew](https://kodebrew.com)** *(remote, 10/2024 – 05/2025)* — Built back-end and front-end features for Rails MVPs delivered in 10-week sprints. Replaced a manual, spreadsheet-based reporting workflow with a fully automated PDF-generation platform, saving each employee ~10 hours of manual work per week.
+- **Freelance Full Stack Developer @ [digid](https://github.com/digidweb)** *(2014 – present)* — 20+ responsive WordPress and custom Rails/React sites delivered for small businesses and entrepreneurs, end-to-end: architecture, front-end, back-end, hosting, performance.
+- **English Language Educator & EdTech Entrepreneur** *(2000 – present)* — 25+ years teaching English/Portuguese; founded two online teaching platforms, [flexflow](https://flexflow.com.br) (2016–present) and OPEN LANGUAGE Idiomas (2010).
+
 <br>
 
-<h2 class="heading-element" dir="auto">My Tech Stack</h2>
+## 🧑‍💻 Community
+
+- Leader & organizer of **Ruby on Rio**, a developer community of 300+ members — in-person and online events on Ruby on Rails and web technologies.
+
+<br>
+
+## 🎓 Education
+
+- Full Stack Web Development — Le Wagon Bootcamp (2024)
+- B.S. in Information Systems (in progress) — Faculdade Descomplica
+- B.A. & Licenciate in Philosophy — UNICAMP
+
+<br>
+
+## 💻 My Tech Stack
+
 <div class="d-flex flex-justify-between">
     <p>Shells</p>
     <a href="https://www.gnu.org/software/bash/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/shell-light.svg" alt="bash" style="cursor:pointer;"
@@ -60,24 +89,34 @@
     <br>
     <br>
     <p>Front-end Languages</p>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" style="cursor:pointer;"
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" style="cursor:pointer;"
      title="JavaScript" width="40" height="40" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.w3.org/html/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html5" style="cursor:pointer;"
+    <a href="https://www.w3.org/html/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" style="cursor:pointer;"
      title="HTML5" width="40" height="40" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;&nbsp; 
-    <a href="https://www.w3.org/Style/CSS/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css3" style="cursor:pointer;"
+    <a href="https://www.w3.org/Style/CSS/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" style="cursor:pointer;"
      title="CSS3" width="40" height="40" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;&nbsp; 
-    <a href="https://sass-lang.com" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" style="cursor:pointer;"
-     title="Sass" width="40" height="40" style="max-width: 100%;"></a>     
+    <a href="https:/https://www.customerparadigm.com/wp-content/uploads/2023/04/Rest-API_logo.png/sass-lang.com" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" style="cursor:pointer;"
+     title="Sass" width="40" height="40" style="max-width: 100%;"></a>
     <br>
     <br>
     <br>
     <p>Front-end Frameworks</p>
     <a href="https://react.dev/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="reactjs" style="cursor:pointer;"
      title="ReactJS" width="40" height="40" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-       <a href="https://tailwindcss.com/" rel="nofollow"><img src="https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000" alt="tailwind" style="cursor:pointer;"
+    <a href="https://tailwindcss.com/" rel="nofollow"><img src="https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000" alt="tailwind" style="cursor:pointer;"
      title="TailwindCSS" width="40" height="40" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-   <a href="https://getbootstrap.com" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="boostrap" style="cursor:pointer;"
+    <a href="https://turbo.hotwired.dev/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/turbo/turbo-original.svg" alt="Hotwire Turbo" style="cursor:pointer;"
+     title="Hotwire Turbo" width="40" height="40" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://getbootstrap.com" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="boostrap" style="cursor:pointer;"
      title="Bootstrap" width="40" height="40" style="max-width: 100%;"></a>
+    <br>
+    <br>
+    <br>
+    <p>Application Programming Interfaces</p>
+    <a href="https://www.mapbox.com/" rel="nofollow"><img src="https://www.customerparadigm.com/wp-content/uploads/2023/04/Rest-API_logo.png" alt="REST API" style="cursor:pointer;" 
+     title="REST API" width="40" height="40" style="max-width: 100%;"></a>
+    <a href="https://www.mapbox.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/mapbox/mono.svg" alt="Mapbox" style="cursor:pointer;"
+     title="Mapbox" width="40" height="40" style="max-width: 100%;"></a>
     <br>
     <br>
     <br>
@@ -89,7 +128,7 @@
 </div>
 <br>
 
-## Featured Projects
+## :sparkles: Featured Projects
 
 ### [Products App](https://github.com/digidweb/products-app) 📦
 
@@ -111,22 +150,13 @@ REST API for managing geographic concentration risk in loan portfolios. Designed
 
 <br>
 
-<h2 class="heading-element" dir="auto">About Me</h2>
-<ul class="heading-element"  dir="auto">
-   <li>💎 Full Stack Developer focused on Ruby on Rails</li>
-   <li>💪 10+ years of experience building websites and web solutions</li>
-   <li>🧠 2+ years specializing in full stack development with Ruby on Rails</li>
-   <li>⚛️ Experience integrating Rails APIs with React frontends</li>
-   <li>🧪 Focused on automated testing, clean code, and maintainable architecture</li>
-   <li>:mountain_cableway: RubyOnRio Dev Community Leader</li>
-   <li>:mortar_board: Information Systems degree in progress</li>
-</ul>
+## 🚀 Above and Beyond
+
+- 🌎 Open to **full stack junior/entry-level roles** (Rails, React, or Hotwire) — remote or Rio de Janeiro;
+- 🌱 Currently learning Spec-Driven Design;
+- 👯 Open to collaborating on Ruby on Rails Libre/Open Source projects;
+- 💬 Ask me about Rails, WordPress, or building an EdTech company from scratch.
+  
 <br>
 
-<h2 class="heading-element" dir="auto">Above and Beyond</h2>
-<ul>
-   <li>🌱 Learning Spec-Driven Development</li>
-   <li>🤔 Exploring the connection between Ruby performance and memory management</li>
-   <li>👯 Willing to collaborate on Ruby and/or Rails Open Source or Free (as in freedom) projects</li>
-</ul>
-<br>
+📌 **Check out my pinned projects below** — each README includes the stack, architecture, and technical highlights.
