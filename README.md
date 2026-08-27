@@ -33,7 +33,7 @@ I spent two decades building businesses and teaching people — now I build web 
 ## 💻 My Tech Stack
 
 <div class="d-flex flex-justify-between">
-<p>(hover over the icons to read their name and click to learn more)</p>
+<p>(hover over the icons to read their names and click on them to learn more)</p>
     <p><b>Shells</b></p>
     <a href="https://www.gnu.org/software/bash/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/shell-light.svg" alt="bash" style="cursor:pointer;"
      title="Bash" width="40" height="40" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -115,7 +115,7 @@ I spent two decades building businesses and teaching people — now I build web 
     <p><b>Application Programming Interfaces</b></p>
     <a href="https://standards.rest/" rel="nofollow"><img src="https://github.com/digidweb/digidweb/blob/main/restAPI-logo.png" alt="REST API" style="cursor:pointer;" 
      title="REST API" width="40" height="40" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.mapbox.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/mapbox/mono.svg" alt="Mapbox" style="cursor:pointer;"
+    <a href="https://www.mapbox.com/" rel="nofollow"><img src="https://github.com/digidweb/digidweb/blob/main/mapbox-seeklogo.png" alt="Mapbox" style="cursor:pointer;"
      title="Mapbox" width="40" height="40" style="max-width: 100%;"></a>
     <br>
     <br>
