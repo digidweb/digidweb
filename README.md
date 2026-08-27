@@ -113,8 +113,8 @@ I spent two decades building businesses and teaching people — now I build web 
     <br>
     <br>
     <p><b>Application Programming Interfaces</b></p>
-    <a href="https://www.mapbox.com/" rel="nofollow"><img src="https://www.customerparadigm.com/wp-content/uploads/2023/04/Rest-API_logo.png" alt="REST API" style="cursor:pointer;" 
-     title="REST API" width="40" height="40" style="max-width: 100%;"></a>
+    <a href="https://standards.rest/" rel="nofollow"><img src="https://github.com/digidweb/digidweb/blob/main/restAPI-logo.png" alt="REST API" style="cursor:pointer;" 
+     title="REST API" width="40" height="40" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.mapbox.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/mapbox/mono.svg" alt="Mapbox" style="cursor:pointer;"
      title="Mapbox" width="40" height="40" style="max-width: 100%;"></a>
     <br>
