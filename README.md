@@ -106,11 +106,8 @@ I spent two decades building businesses and teaching people — now I build web 
      title="ReactJS" width="40" height="40" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://tailwindcss.com/" rel="nofollow"><img src="https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000" alt="tailwind" style="cursor:pointer;"
      title="TailwindCSS" width="40" height="40" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://turbo.hotwired.dev/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/turbo/turbo-original.svg" alt="Hotwire Turbo" style="cursor:pointer;"
-     title="Hotwire Turbo" width="40" height="40" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://stimulus.hotwired.dev/" rel="nofollow"><img src="https://github.com/digidweb/digidweb/blob/main/stimulus-seeklogo.png" alt="Stimulus" width="40" height="40" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://getbootstrap.com" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="boostrap" style="cursor:pointer;"
-     title="Bootstrap" width="40" height="40" style="max-width: 100%;"></a>
-    <a href="https://getbootstrap.com" rel="nofollow"><img src="https://svgicons.com/icon/240880/stimulus-wordmark" alt="boostrap" style="cursor:pointer;"
      title="Bootstrap" width="40" height="40" style="max-width: 100%;"></a>
     <br>
     <br>
