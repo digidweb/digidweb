@@ -33,14 +33,15 @@ I spent two decades building businesses and teaching people — now I build web 
 ## 💻 My Tech Stack
 
 <div class="d-flex flex-justify-between">
-    <p>Shells</p>
+<p>(hover over the icons to read their name)</p>
+    <p><b>Shells</b></p>
     <a href="https://www.gnu.org/software/bash/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/shell-light.svg" alt="bash" style="cursor:pointer;"
      title="Bash" width="40" height="40" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.zsh.org/" rel="nofollow"><img src="https://github.com/digidweb/digidweb/blob/main/zsh-whiteIcon.png" alt="zsh" style="cursor:pointer;" title="Zsh" width="40" height="40" style="max-width: 100%;"></a>
     <br>
     <br>
     <br>
-    <p>Development Tools</p>
+    <p><b>Development Tools</b></p>
     <a href="https://git-scm.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" style="cursor:pointer;"
      title="Git" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://code.visualstudio.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" style="cursor:pointer;"
@@ -56,7 +57,7 @@ I spent two decades building businesses and teaching people — now I build web 
     <br>
     <br>
     <br>
-    <p>Code Repositories</p>
+    <p><b>Code Repositories</b></p>
     <a href="https://codeberg.org/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/codeberg.svg" alt="codeberg" style="cursor:pointer;"
      title="Codeberg" width="40" height="40" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://about.gitlab.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/gitlab.svg" alt="gitlab" style="cursor:pointer;"
@@ -64,7 +65,7 @@ I spent two decades building businesses and teaching people — now I build web 
     <br>
     <br>
     <br>
-    <p>Data Bases</p>
+    <p><b>Data Bases</b></p>
     <a href="https://www.postgresql.org" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="postgresql" style="cursor:pointer;"
      title="PostgreSQL" width="40" height="40" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.sqlite.org/index.html" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" alt="sqlite" style="cursor:pointer;"
@@ -72,7 +73,7 @@ I spent two decades building businesses and teaching people — now I build web 
     <br>
     <br>
     <br>
-    <p>Back-end Languages</p>
+    <p><b>Back-end Languages</b></p>
     <a href="https://www.ruby-lang.org/en/" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" style="cursor:pointer;"
      title="Ruby" width="40" height="40" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.python.org" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" style="cursor:pointer;"
@@ -80,7 +81,7 @@ I spent two decades building businesses and teaching people — now I build web 
     <br>
     <br>
     <br>
-    <p>Full Stack Frameworks</p>
+    <p><b>Full Stack Frameworks</b></p>
     <a href="https://rubyonrails.org" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-plain.svg" alt="rails" style="cursor:pointer;"
      title="Rails" width="40" height="40" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.wordpress.org/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/wordpress.svg" alt="wordpress" style="cursor:pointer;"
@@ -88,7 +89,7 @@ I spent two decades building businesses and teaching people — now I build web 
     <br>
     <br>
     <br>
-    <p>Front-end Languages</p>
+    <p><b>Front-end Languages</b></p>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" style="cursor:pointer;"
      title="JavaScript" width="40" height="40" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.w3.org/html/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" style="cursor:pointer;"
@@ -100,7 +101,7 @@ I spent two decades building businesses and teaching people — now I build web 
     <br>
     <br>
     <br>
-    <p>Front-end Frameworks</p>
+    <p><b>Front-end Frameworks</b></p>
     <a href="https://react.dev/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="reactjs" style="cursor:pointer;"
      title="ReactJS" width="40" height="40" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://tailwindcss.com/" rel="nofollow"><img src="https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000" alt="tailwind" style="cursor:pointer;"
@@ -109,10 +110,12 @@ I spent two decades building businesses and teaching people — now I build web 
      title="Hotwire Turbo" width="40" height="40" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://getbootstrap.com" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="boostrap" style="cursor:pointer;"
      title="Bootstrap" width="40" height="40" style="max-width: 100%;"></a>
+    <a href="https://getbootstrap.com" rel="nofollow"><img src="https://svgicons.com/icon/240880/stimulus-wordmark" alt="boostrap" style="cursor:pointer;"
+     title="Bootstrap" width="40" height="40" style="max-width: 100%;"></a>
     <br>
     <br>
     <br>
-    <p>Application Programming Interfaces</p>
+    <p><b>Application Programming Interfaces</b></p>
     <a href="https://www.mapbox.com/" rel="nofollow"><img src="https://www.customerparadigm.com/wp-content/uploads/2023/04/Rest-API_logo.png" alt="REST API" style="cursor:pointer;" 
      title="REST API" width="40" height="40" style="max-width: 100%;"></a>
     <a href="https://www.mapbox.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/mapbox/mono.svg" alt="Mapbox" style="cursor:pointer;"
@@ -120,7 +123,7 @@ I spent two decades building businesses and teaching people — now I build web 
     <br>
     <br>
     <br>
-    <p>Deployment Platforms</p>
+    <p><b>Deployment Platforms</b></p>
     <a href="https://www.render.com/" rel="nofollow"><img src="https://avatars.githubusercontent.com/u/36424661?s=200&v=4" alt="Render" style="cursor:pointer;"
      title="Render" width="40" height="40" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.heroku.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-plain.svg" alt="Heroku" style="cursor:pointer;"
