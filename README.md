@@ -33,7 +33,7 @@ I spent two decades building businesses and teaching people — now I build web 
 ## 💻 My Tech Stack
 
 <div class="d-flex flex-justify-between">
-<p>(hover over the icons to read their name)</p>
+<p>(hover over the icons to read their name and click to learn more)</p>
     <p><b>Shells</b></p>
     <a href="https://www.gnu.org/software/bash/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/shell-light.svg" alt="bash" style="cursor:pointer;"
      title="Bash" width="40" height="40" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;&nbsp;
