@@ -4,7 +4,7 @@
 
 **Junior Full Stack Developer (Ruby on Rails / React) — 20+ years turning ideas into products, now shipping them in code.**
 
-I spent two decades building businesses and teaching people — now I build web apps. I bring a founder's eye for what actually matters to the user, backed by clean, tested Rails code.
+I spent two decades building businesses and teaching people. Since 2024 I've been building web apps. I bring a founder's eye for what actually matters to the user, backed by clean, tested Rails code.
 
 ---
 
